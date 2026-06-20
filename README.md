@@ -116,7 +116,7 @@ Jupyter Notebook · Google Colab · 3D Slicer · Claude Desktop · GitHub Copilo
 ## 💼 Professional Experience
 
 ### 🏢 Data Scientist — Trackleo Technologies Pvt. Ltd.
-📅 **Feb 2026 – Present** &nbsp; <img src="https://img.shields.io/badge/Current-Working-success?style=flat-square"/>
+📅 **Feb 2026 – Present** &nbsp; <img src="https://img.shields.io/badge/●_Current-06B6D4?style=flat-square&logoColor=white"/>
 
 Production-grade Healthcare AI focused on computer vision and medical imaging.
 
@@ -126,21 +126,7 @@ Production-grade Healthcare AI focused on computer vision and medical imaging.
 - 🖼️ Medical Image Processing & Feature Engineering
 - 📚 Clinical Decision Support Systems
 
-`Python` `TensorFlow` `PyTorch` `Scikit-Learn` `OpenCV` `Pandas` `NumPy` `SQL`
-
----
-
-### 🏥 AI Developer Intern — Sudha Gopalakrishnan Brain Centre (IIT Madras)
-📅 **Nov 2025 – Feb 2026**
-
-Advanced Medical Imaging platforms and AI-powered visualization systems.
-
-- MRI Visualization & Medical Imaging Dashboard
-- 3D Slicer Automation & Volume Processing
-- Docker Pipelines & MCP Server Development
-- Headless Medical Imaging & Image Segmentation
-
-`Python` `Docker` `FastAPI` `3D Slicer` `MCP` `Jupyter`
+<img src="https://img.shields.io/badge/Python-0f2027?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-0f2027?style=flat-square&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-0f2027?style=flat-square&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit--Learn-0f2027?style=flat-square&logo=scikitlearn&logoColor=white"/> <img src="https://img.shields.io/badge/OpenCV-0f2027?style=flat-square&logo=opencv&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-0f2027?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-0f2027?style=flat-square&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-0f2027?style=flat-square"/>
 
 ---
 
@@ -152,6 +138,22 @@ End-to-end Data Science and Machine Learning projects.
 - Data Cleaning & Exploratory Data Analysis
 - Predictive Analytics & Data Visualization
 
+<img src="https://img.shields.io/badge/Python-203a43?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-203a43?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-203a43?style=flat-square&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit--Learn-203a43?style=flat-square&logo=scikitlearn&logoColor=white"/> <img src="https://img.shields.io/badge/Matplotlib-203a43?style=flat-square&logo=plotly&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-203a43?style=flat-square"/>
+
+---
+
+### 🏥 AI Developer Intern — Sudha Gopalakrishnan Brain Centre (IIT Madras)
+📅 **Nov 2025**
+
+Advanced Medical Imaging platforms and AI-powered visualization systems.
+
+- MRI Visualization & Medical Imaging Dashboard
+- 3D Slicer Automation & Volume Processing
+- Docker Pipelines & MCP Server Development
+- Headless Medical Imaging & Image Segmentation
+
+<img src="https://img.shields.io/badge/Python-2c5364?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2c5364?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-2c5364?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/3D_Slicer-2c5364?style=flat-square"/> <img src="https://img.shields.io/badge/MCP-2c5364?style=flat-square"/> <img src="https://img.shields.io/badge/Jupyter-2c5364?style=flat-square&logo=jupyter&logoColor=white"/>
+
 ---
 
 ### 🚀 AI Product Engineering Intern — Web Karo India
@@ -161,6 +163,8 @@ AI-powered web products integrating Machine Learning and automation.
 
 - AI Product Development & API Integration
 - ML Pipelines & Scalable Backend Development
+
+<img src="https://img.shields.io/badge/Python-0f2027?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-0f2027?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/REST_API-0f2027?style=flat-square"/> <img src="https://img.shields.io/badge/Machine_Learning-0f2027?style=flat-square"/> <img src="https://img.shields.io/badge/Git-0f2027?style=flat-square&logo=git&logoColor=white"/>
 
 ---
 
