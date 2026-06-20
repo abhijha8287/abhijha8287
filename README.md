@@ -32,20 +32,19 @@
 
 <img align="right" width="360" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Q2MWE1ODR0M2NkM2xydjQ0eTRwb2R2dGh1ZTRsN2l2dHVvZnI1NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l46Cy1rHbQ92uuLXa/giphy.gif" />
 
-🎓 B.S. in Data Science and Applications, **IIT Madras**
-💼 Data Scientist working on **Healthcare AI**
-❤️ Passionate about solving real-world problems with AI
-📍 Based in Delhi • Chennai • India
+I'm Abhishek — an AI Engineer who turns medical scans, infrastructure alerts, and high-stakes decisions into AI systems that actually ship. I'm currently a **Data Scientist at Trackleo Technologies**, building production Healthcare AI on top of a **B.S. in Data Science and Applications from IIT Madras**.
+
+❤️ I care about AI that solves real problems, not demo-only AI. 📍 Based in Delhi • Chennai, India.
+
+<p align="center">
+<img src="https://img.shields.io/badge/🚀_10%2B-AI%20Projects%20Shipped-0f2027?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🏥_Healthcare-AI%20Specialist-203a43?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🎓_IIT%20Madras-B.S.%20Data%20Science-2c5364?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🤖_Agentic%20AI-%26%20LLM%20Engineer-0f2027?style=for-the-badge"/>
+</p>
 
 **Currently building in:**
 🤖 Agentic AI · 🧠 LLMs · 🏥 Medical AI · 👁 Computer Vision · 📊 Machine Learning · ⚙ MLOps · ☁ Cloud AI · 🌐 Full Stack AI
-
-| | |
-|---|---|
-| 💼 **Role** | Data Scientist @ Trackleo Technologies |
-| 🏥 **Focus** | Medical Imaging · Echocardiography · Fundus Image Classification |
-| 🎓 **Education** | B.S. Data Science and Applications, IIT Madras |
-| 🌎 **Location** | Delhi • Chennai • India |
 
 <br clear="right"/>
 
@@ -121,8 +120,6 @@ Jupyter Notebook · Google Colab · 3D Slicer · Claude Desktop · GitHub Copilo
 Production-grade Healthcare AI focused on computer vision and medical imaging.
 
 - 👁️ Five-Class Retinal Disease Classification
-- ❤️ Echocardiography (Echo) Analysis
-- 🧠 Deep Learning Model Development
 - 🖼️ Medical Image Processing & Feature Engineering
 - 📚 Clinical Decision Support Systems
 
@@ -157,7 +154,7 @@ Advanced Medical Imaging platforms and AI-powered visualization systems.
 ---
 
 ### 🚀 AI Product Engineering Intern — Web Karo India
-📅 **Apr 2025 – Sep 2025**
+📅 **Jan 2025 – Sep 2025**
 
 AI-powered web products integrating Machine Learning and automation.
 
