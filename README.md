@@ -186,21 +186,6 @@ AI-powered web products integrating Machine Learning and automation.
 
 ---
 
-### 📈 Experience Snapshot
-
-| Category | Level |
-|-----------|------------|
-| 🤖 Artificial Intelligence | ⭐⭐⭐⭐⭐ |
-| 🧠 Machine Learning | ⭐⭐⭐⭐⭐ |
-| ❤️ Deep Learning | ⭐⭐⭐⭐⭐ |
-| 👁 Computer Vision | ⭐⭐⭐⭐⭐ |
-| 📊 Data Science | ⭐⭐⭐⭐⭐ |
-| 🌐 Full Stack Development | ⭐⭐⭐⭐☆ |
-| ⚙️ MLOps | ⭐⭐⭐⭐☆ |
-| ☁️ Cloud | ⭐⭐⭐⭐☆ |
-
----
-
 <!-- ===================================================== -->
 <!--                 FEATURED PROJECTS                      -->
 <!-- ===================================================== -->
