@@ -185,118 +185,148 @@ AI-powered web products integrating Machine Learning and automation.
 
 ## 🚀 Featured AI Projects
 
+<p align="center"><i>Ten AI-first products spanning research automation, healthcare, fintech, and developer tooling.</i></p>
+
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🧠 AI Scientist
-**Autonomous Scientific Discovery Platform**
+<sub>Autonomous Scientific Discovery Platform</sub>
 
 AI research assistant that discovers research gaps, generates hypotheses, designs experiments, and accelerates research through autonomous multi-agent workflows.
 
 ✨ Multi-Agent AI · Scientific Reasoning · Hypothesis Generation · Automated Experiment Planning · Research Paper Generation · Knowledge Graphs
 
-🛠 `Python` `LangGraph` `OpenAI` `CrewAI` `FastAPI` `Vector DB`
+<img src="https://img.shields.io/badge/Python-0f2027?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/LangGraph-0f2027?style=flat-square"/> <img src="https://img.shields.io/badge/OpenAI-0f2027?style=flat-square&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/CrewAI-0f2027?style=flat-square"/> <img src="https://img.shields.io/badge/FastAPI-0f2027?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Vector_DB-0f2027?style=flat-square"/>
+
+[**🔗 View Repository**](https://github.com/abhijha8287/AI-Scientist)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🏥 Facility Trust Desk
-**Healthcare Facility Intelligence Platform**
+<sub>Healthcare Facility Intelligence Platform</sub>
 
 Evaluates hospitals across ICU, NICU, Trauma, Oncology, Emergency, and Dialysis services using evidence-backed trust scoring and explainable AI.
 
 ✨ Explainable AI · Healthcare Analytics · Hospital Verification · Trust Scoring · RAG Pipeline
 
-🛠 `Python` `LLMs` `FastAPI` `Vector Search` `OpenAI`
+<img src="https://img.shields.io/badge/Python-203a43?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/LLMs-203a43?style=flat-square"/> <img src="https://img.shields.io/badge/FastAPI-203a43?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Vector_Search-203a43?style=flat-square"/> <img src="https://img.shields.io/badge/OpenAI-203a43?style=flat-square&logo=openai&logoColor=white"/>
+
+[**🔗 View Repository**](https://github.com/abhijha8287/facility-trust-desk)
 
 </td>
 </tr>
 <tr>
-<td>
+<td valign="top">
 
 ### 🚨 Autonomous Incident Commander
+<sub>Infrastructure Incident Intelligence</sub>
+
 Transforms infrastructure alerts into intelligent investigations — root cause identification, timeline generation, response coordination, and remediation recommendations.
 
 ✨ AI Incident Investigation · Root Cause Analysis · Timeline Generation · Splunk Integration · Jira Automation
 
-🛠 `Python` `Splunk` `FastAPI` `LangGraph` `Docker`
+<img src="https://img.shields.io/badge/Python-2c5364?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Splunk-2c5364?style=flat-square&logo=splunk&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-2c5364?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/LangGraph-2c5364?style=flat-square"/> <img src="https://img.shields.io/badge/Docker-2c5364?style=flat-square&logo=docker&logoColor=white"/>
+
+[**🔗 View Repository**](https://github.com/abhijha8287/Autonomous-Incident-Commander)
 
 </td>
-<td>
+<td valign="top">
 
 ### 🏗 AI Construction Commander
+<sub>Enterprise Construction Intelligence</sub>
+
 Enterprise platform for investigating construction delays, supply-chain bottlenecks, procurement risks, and contractor performance.
 
 ✨ Delay Investigation · Procurement Intelligence · Risk Prediction · Knowledge Graph · Forecasting
 
-🛠 `Python` `Neo4j` `LangGraph` `OpenAI` `FastAPI`
+<img src="https://img.shields.io/badge/Python-0f2027?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Neo4j-0f2027?style=flat-square&logo=neo4j&logoColor=white"/> <img src="https://img.shields.io/badge/LangGraph-0f2027?style=flat-square"/> <img src="https://img.shields.io/badge/OpenAI-0f2027?style=flat-square&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-0f2027?style=flat-square&logo=fastapi&logoColor=white"/>
 
 </td>
 </tr>
 <tr>
-<td>
+<td valign="top">
 
 ### 💼 Career Agent AI
-AI career assistant that discovers jobs, internships, and freelance opportunities while generating ATS-optimized resumes and personalized cover letters.
+<sub>AI Career Assistant</sub>
+
+Discovers jobs, internships, and freelance opportunities while generating ATS-optimized resumes and personalized cover letters.
 
 ✨ Job Discovery · ATS Resume Builder · Cover Letter Generation · Resume Ranking · AI Matching
 
-🛠 `Python` `FastAPI` `OpenAI` `PostgreSQL` `Elasticsearch`
+<img src="https://img.shields.io/badge/Python-203a43?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-203a43?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/OpenAI-203a43?style=flat-square&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-203a43?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Elasticsearch-203a43?style=flat-square&logo=elasticsearch&logoColor=white"/>
+
+[**🔗 View Repository**](https://github.com/abhijha8287/career-agent-ai)
 
 </td>
-<td>
+<td valign="top">
 
 ### 🔮 Parallel AI
-Decision Intelligence Platform predicting multiple future outcomes, estimating regret probability, and evaluating opportunity costs before you commit.
+<sub>Decision Intelligence Platform</sub>
+
+Predicts multiple future outcomes, estimates regret probability, and evaluates opportunity costs before you commit.
 
 ✨ Future Simulation · Decision Intelligence · Regret Prediction · Opportunity Cost · Personalized AI
 
-🛠 `Python` `OpenAI` `LangGraph` `Vector DB`
+<img src="https://img.shields.io/badge/Python-2c5364?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/OpenAI-2c5364?style=flat-square&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/LangGraph-2c5364?style=flat-square"/> <img src="https://img.shields.io/badge/Vector_DB-2c5364?style=flat-square"/>
+
+[**🔗 View Repository**](https://github.com/abhijha8287/parallel-ai)
 
 </td>
 </tr>
 <tr>
-<td>
+<td valign="top">
 
 ### ⚡ Future Self AI
-AI-powered Chrome Extension that intercepts important online actions and predicts outcomes before purchases, investments, applications, or emails are submitted.
+<sub>Predictive Decision Chrome Extension</sub>
+
+Intercepts important online actions and predicts outcomes before purchases, investments, applications, or emails are submitted.
 
 ✨ Chrome Extension · Regret Prediction · Future Impact Report · Decision Intelligence
 
-🛠 `Next.js` `TypeScript` `PostgreSQL` `OpenAI` `ChromaDB`
+<img src="https://img.shields.io/badge/Next.js-0f2027?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-0f2027?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-0f2027?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/OpenAI-0f2027?style=flat-square&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/ChromaDB-0f2027?style=flat-square"/>
+
+[**🔗 View Repository**](https://github.com/abhijha8287/future-self-ai)
 
 </td>
-<td>
+<td valign="top">
 
 ### 📈 TradePulse AI
-Professional AI trading dashboard with institutional flow analysis, volatility monitoring, news intelligence, watchlists, and alerts.
+<sub>AI Trading Intelligence Dashboard</sub>
+
+Institutional flow analysis, volatility monitoring, news intelligence, watchlists, alerts, and AI-powered market insights.
 
 ✨ Market Intelligence · Institutional Flows · News Analytics · AI Insights
 
-🛠 `Python` `FastAPI` `LLMs` `PostgreSQL`
+<img src="https://img.shields.io/badge/Python-203a43?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-203a43?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/LLMs-203a43?style=flat-square"/> <img src="https://img.shields.io/badge/PostgreSQL-203a43?style=flat-square&logo=postgresql&logoColor=white"/>
 
 </td>
 </tr>
 <tr>
-<td>
+<td valign="top">
 
 ### 💸 RemitAI
-Cross-border remittance optimizer that finds the cheapest, fastest, and safest blockchain transfer routes using stablecoins across Ethereum and Layer-2 networks.
+<sub>Cross-Border Remittance Optimizer</sub>
+
+Finds the cheapest, fastest, and safest blockchain transfer routes using stablecoins across Ethereum and Layer-2 networks.
 
 ✨ Blockchain Payments · Stablecoin Routing · Cost Optimization · Smart Transfer Engine
 
-🛠 `TypeScript` `Ethereum` `Next.js` `Web3`
+<img src="https://img.shields.io/badge/TypeScript-2c5364?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Ethereum-2c5364?style=flat-square&logo=ethereum&logoColor=white"/> <img src="https://img.shields.io/badge/Next.js-2c5364?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Web3-2c5364?style=flat-square"/>
 
 </td>
-<td>
+<td valign="top">
 
 ### 🎓 STEMLab AI
-Virtual AI laboratory for STEM education with intelligent tutoring, experiment simulations, automated lab reports, and personalized learning.
+<sub>Virtual AI Laboratory for STEM Education</sub>
+
+Intelligent tutoring, experiment simulations, automated lab reports, and personalized learning experiences.
 
 ✨ AI Tutor · Interactive Simulations · Lab Reports · Personalized Learning
 
-🛠 `Next.js` `TypeScript` `Three.js` `Python`
+<img src="https://img.shields.io/badge/Next.js-0f2027?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-0f2027?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Three.js-0f2027?style=flat-square&logo=threedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Python-0f2027?style=flat-square&logo=python&logoColor=white"/>
 
 </td>
 </tr>
