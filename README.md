@@ -431,15 +431,25 @@ To build production-scale AI systems that solve meaningful real-world problems i
 
 ## 📫 Connect With Me
 
+<p align="center">💬 Always up for talking AI, Healthcare tech, or the next thing worth building. Reach out 👇</p>
+
 <p align="center">
-<a href="https://github.com/abhijha8287"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
-<a href="https://www.linkedin.com/in/abhishekjha15/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/></a>
+<a href="https://github.com/abhijha8287"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/abhishekjha15/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:abhijha8287@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
+<p align="center">
+<img src="https://img.shields.io/badge/⭐_Star-a%20Repo-0f2027?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🍴_Fork-a%20Project-203a43?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🤝_Let's-Collaborate-2c5364?style=for-the-badge"/>
+</p>
+
+<p align="center">
+
 > *"The best way to predict the future is to build it."*
 
-If you find my work useful: ⭐ star a repo · 🍴 fork a project · 🤝 collaborate on AI initiatives.
+</p>
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=120&section=footer"/>
