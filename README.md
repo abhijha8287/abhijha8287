@@ -244,6 +244,8 @@ Enterprise platform for investigating construction delays, supply-chain bottlene
 
 <img src="https://img.shields.io/badge/Python-0f2027?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Neo4j-0f2027?style=flat-square&logo=neo4j&logoColor=white"/> <img src="https://img.shields.io/badge/LangGraph-0f2027?style=flat-square"/> <img src="https://img.shields.io/badge/OpenAI-0f2027?style=flat-square&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-0f2027?style=flat-square&logo=fastapi&logoColor=white"/>
 
+[**🔗 View Repository**](https://github.com/abhijha8287/AI-Construction-Commander)
+
 </td>
 </tr>
 <tr>
@@ -302,6 +304,8 @@ Institutional flow analysis, volatility monitoring, news intelligence, watchlist
 
 <img src="https://img.shields.io/badge/Python-203a43?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-203a43?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/LLMs-203a43?style=flat-square"/> <img src="https://img.shields.io/badge/PostgreSQL-203a43?style=flat-square&logo=postgresql&logoColor=white"/>
 
+[**🔗 View Repository**](https://github.com/abhijha8287/tradepulse-ai)
+
 </td>
 </tr>
 <tr>
@@ -316,6 +320,8 @@ Finds the cheapest, fastest, and safest blockchain transfer routes using stablec
 
 <img src="https://img.shields.io/badge/TypeScript-2c5364?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Ethereum-2c5364?style=flat-square&logo=ethereum&logoColor=white"/> <img src="https://img.shields.io/badge/Next.js-2c5364?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Web3-2c5364?style=flat-square"/>
 
+[**🔗 View Repository**](https://github.com/abhijha8287/RemitAI)
+
 </td>
 <td valign="top">
 
@@ -328,6 +334,8 @@ Intelligent tutoring, experiment simulations, automated lab reports, and persona
 
 <img src="https://img.shields.io/badge/Next.js-0f2027?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-0f2027?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Three.js-0f2027?style=flat-square&logo=threedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Python-0f2027?style=flat-square&logo=python&logoColor=white"/>
 
+[**🔗 View Repository**](https://github.com/abhijha8287/STEMLab-AI)
+
 </td>
 </tr>
 </table>
@@ -339,14 +347,14 @@ Intelligent tutoring, experiment simulations, automated lab reports, and persona
 | Project | Description |
 |---------|-------------|
 | 🩺 Medical Imaging AI | AI for retinal disease detection, echocardiography, MRI visualization, and clinical decision support. |
-| 🏛️ ShadowGov AI | Civic-tech AI platform exploring transparency and accountability tooling for government operations *(in progress)*. |
+| [🏛️ ShadowGov AI](https://github.com/abhijha8287/shadowgov-ai) | Civic-tech AI platform exploring transparency and accountability tooling for government operations *(in progress)*. |
 | 🚗 Parking Management System | Full-stack parking platform — Flask, Vue.js, SQLite, Redis, Celery, role-based access control. |
 | ⚙️ MLOps Pipeline | End-to-end production ML pipeline — Docker, MLflow, DVC, CI/CD, GitHub Actions, FastAPI deployment. |
 | 📊 Customer Churn Prediction | Deep learning / ANN-based churn prediction using TensorFlow and Keras. |
-| 🍎 Fruit Classification | CNN-based fresh vs. spoiled fruit classification with ResNet50 and transfer learning. |
-| 📷 Camera OpenAI Vision | Streamlit app for real-time image understanding using OpenAI Vision. |
+| [🍎 Fruit Classification](https://github.com/abhijha8287/fruit_classifier_cnn) | CNN-based fresh vs. spoiled fruit classification with ResNet50 and transfer learning. |
+| [📷 Camera OpenAI Vision](https://github.com/abhijha8287/camera-openai-vision-streamlit) | Streamlit app for real-time image understanding using OpenAI Vision. |
 | ☁️ Kubernetes Learning | Hands-on Kubernetes deployments, scaling, services, and orchestration experiments. |
-| 🔄 GitHub Actions CI | CI pipelines for automated testing, builds, and deployment. |
+| [🔄 GitHub Actions CI](https://github.com/abhijha8287/learning_CI) | CI pipelines for automated testing, builds, and deployment. |
 | 📚 IIT Madras MLOps | Weekly assignments and projects demonstrating production-grade MLOps concepts. |
 
 ---
