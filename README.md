@@ -200,7 +200,7 @@ AI research assistant that discovers research gaps, generates hypotheses, design
 
 <img src="https://img.shields.io/badge/Python-0f2027?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/LangGraph-0f2027?style=flat-square"/> <img src="https://img.shields.io/badge/OpenAI-0f2027?style=flat-square&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/CrewAI-0f2027?style=flat-square"/> <img src="https://img.shields.io/badge/FastAPI-0f2027?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Vector_DB-0f2027?style=flat-square"/>
 
-[**🔗 View Repository**](https://github.com/abhijha8287/AI-Scientist)
+<a href="https://github.com/abhijha8287/AI-Scientist"><img src="https://img.shields.io/badge/GitHub-View%20Repository-06B6D4?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </td>
 <td width="50%" valign="top">
@@ -214,7 +214,7 @@ Evaluates hospitals across ICU, NICU, Trauma, Oncology, Emergency, and Dialysis 
 
 <img src="https://img.shields.io/badge/Python-203a43?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/LLMs-203a43?style=flat-square"/> <img src="https://img.shields.io/badge/FastAPI-203a43?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Vector_Search-203a43?style=flat-square"/> <img src="https://img.shields.io/badge/OpenAI-203a43?style=flat-square&logo=openai&logoColor=white"/>
 
-[**🔗 View Repository**](https://github.com/abhijha8287/facility-trust-desk)
+<a href="https://github.com/abhijha8287/facility-trust-desk"><img src="https://img.shields.io/badge/GitHub-View%20Repository-06B6D4?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </td>
 </tr>
@@ -230,7 +230,7 @@ Transforms infrastructure alerts into intelligent investigations — root cause 
 
 <img src="https://img.shields.io/badge/Python-2c5364?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Splunk-2c5364?style=flat-square&logo=splunk&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-2c5364?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/LangGraph-2c5364?style=flat-square"/> <img src="https://img.shields.io/badge/Docker-2c5364?style=flat-square&logo=docker&logoColor=white"/>
 
-[**🔗 View Repository**](https://github.com/abhijha8287/Autonomous-Incident-Commander)
+<a href="https://github.com/abhijha8287/Autonomous-Incident-Commander"><img src="https://img.shields.io/badge/GitHub-View%20Repository-06B6D4?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </td>
 <td valign="top">
@@ -244,7 +244,7 @@ Enterprise platform for investigating construction delays, supply-chain bottlene
 
 <img src="https://img.shields.io/badge/Python-0f2027?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Neo4j-0f2027?style=flat-square&logo=neo4j&logoColor=white"/> <img src="https://img.shields.io/badge/LangGraph-0f2027?style=flat-square"/> <img src="https://img.shields.io/badge/OpenAI-0f2027?style=flat-square&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-0f2027?style=flat-square&logo=fastapi&logoColor=white"/>
 
-[**🔗 View Repository**](https://github.com/abhijha8287/AI-Construction-Commander)
+<a href="https://github.com/abhijha8287/AI-Construction-Commander"><img src="https://img.shields.io/badge/GitHub-View%20Repository-06B6D4?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </td>
 </tr>
@@ -260,7 +260,7 @@ Discovers jobs, internships, and freelance opportunities while generating ATS-op
 
 <img src="https://img.shields.io/badge/Python-203a43?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-203a43?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/OpenAI-203a43?style=flat-square&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-203a43?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Elasticsearch-203a43?style=flat-square&logo=elasticsearch&logoColor=white"/>
 
-[**🔗 View Repository**](https://github.com/abhijha8287/career-agent-ai)
+<a href="https://github.com/abhijha8287/career-agent-ai"><img src="https://img.shields.io/badge/GitHub-View%20Repository-06B6D4?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </td>
 <td valign="top">
@@ -274,7 +274,7 @@ Predicts multiple future outcomes, estimates regret probability, and evaluates o
 
 <img src="https://img.shields.io/badge/Python-2c5364?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/OpenAI-2c5364?style=flat-square&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/LangGraph-2c5364?style=flat-square"/> <img src="https://img.shields.io/badge/Vector_DB-2c5364?style=flat-square"/>
 
-[**🔗 View Repository**](https://github.com/abhijha8287/parallel-ai)
+<a href="https://github.com/abhijha8287/parallel-ai"><img src="https://img.shields.io/badge/GitHub-View%20Repository-06B6D4?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </td>
 </tr>
@@ -290,7 +290,7 @@ Intercepts important online actions and predicts outcomes before purchases, inve
 
 <img src="https://img.shields.io/badge/Next.js-0f2027?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-0f2027?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-0f2027?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/OpenAI-0f2027?style=flat-square&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/ChromaDB-0f2027?style=flat-square"/>
 
-[**🔗 View Repository**](https://github.com/abhijha8287/future-self-ai)
+<a href="https://github.com/abhijha8287/future-self-ai"><img src="https://img.shields.io/badge/GitHub-View%20Repository-06B6D4?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </td>
 <td valign="top">
@@ -304,7 +304,7 @@ Institutional flow analysis, volatility monitoring, news intelligence, watchlist
 
 <img src="https://img.shields.io/badge/Python-203a43?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-203a43?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/LLMs-203a43?style=flat-square"/> <img src="https://img.shields.io/badge/PostgreSQL-203a43?style=flat-square&logo=postgresql&logoColor=white"/>
 
-[**🔗 View Repository**](https://github.com/abhijha8287/tradepulse-ai)
+<a href="https://github.com/abhijha8287/tradepulse-ai"><img src="https://img.shields.io/badge/GitHub-View%20Repository-06B6D4?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </td>
 </tr>
@@ -320,7 +320,7 @@ Finds the cheapest, fastest, and safest blockchain transfer routes using stablec
 
 <img src="https://img.shields.io/badge/TypeScript-2c5364?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Ethereum-2c5364?style=flat-square&logo=ethereum&logoColor=white"/> <img src="https://img.shields.io/badge/Next.js-2c5364?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Web3-2c5364?style=flat-square"/>
 
-[**🔗 View Repository**](https://github.com/abhijha8287/RemitAI)
+<a href="https://github.com/abhijha8287/RemitAI"><img src="https://img.shields.io/badge/GitHub-View%20Repository-06B6D4?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </td>
 <td valign="top">
@@ -334,7 +334,7 @@ Intelligent tutoring, experiment simulations, automated lab reports, and persona
 
 <img src="https://img.shields.io/badge/Next.js-0f2027?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-0f2027?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Three.js-0f2027?style=flat-square&logo=threedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Python-0f2027?style=flat-square&logo=python&logoColor=white"/>
 
-[**🔗 View Repository**](https://github.com/abhijha8287/STEMLab-AI)
+<a href="https://github.com/abhijha8287/STEMLab-AI"><img src="https://img.shields.io/badge/GitHub-View%20Repository-06B6D4?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </td>
 </tr>
