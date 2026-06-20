@@ -3,7 +3,7 @@
 <!-- ===================================================== -->
 
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f2027,50:203a43,100:2c5364&text=Abhishek%20Jha&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Machine%20Learning%20Engineer%20%7C%20Data%20Scientist&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f2027,50:203a43,100:2c5364&text=Abhishek%20Jha&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&"/>
 </p>
 
 <h3 align="center">AI Engineer • AI Web Developer • Machine Learning Engineer • Agentic AI Developer</h3>
