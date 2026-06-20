@@ -6,9 +6,9 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f2027,50:203a43,100:2c5364&text=Abhishek%20Jha&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Machine%20Learning%20Engineer%20%7C%20Data%20Scientist&descAlignY=58"/>
 </p>
 
-<h3 align="center">AI Engineer • Machine Learning Engineer • Data Scientist • Full Stack AI Developer</h3>
+<h3 align="center">AI Engineer • AI Web Developer • Machine Learning Engineer • Agentic AI Developer</h3>
 
-<p align="center">Building intelligent AI products across Machine Learning, Deep Learning, LLMs, Agentic AI, Computer Vision, and Medical AI.</p>
+<p align="center">I turn data into insights — building intelligent AI products across Web Development, Machine Learning, Deep Learning, LLMs, Agentic AI, and Computer Vision.</p>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&pause=1000&center=true&vCenter=true&width=900&lines=AI+Engineer;Machine+Learning+Engineer;Generative+AI+Developer;Agentic+AI+Developer;Computer+Vision+Engineer;Medical+AI+Researcher;Full+Stack+AI+Developer;MLOps+Engineer;Open+Source+Contributor"/>
@@ -30,23 +30,41 @@
 
 ## 👋 About Me
 
-<img align="right" width="360" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Q2MWE1ODR0M2NkM2xydjQ0eTRwb2R2dGh1ZTRsN2l2dHVvZnI1NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l46Cy1rHbQ92uuLXa/giphy.gif" />
-
-I'm Abhishek — an AI Engineer who turns medical scans, infrastructure alerts, and high-stakes decisions into AI systems that actually ship. I'm currently a **Data Scientist at Trackleo Technologies**, building production Healthcare AI on top of a **B.S. in Data Science and Applications from IIT Madras**.
-
-❤️ I care about AI that solves real problems, not demo-only AI. 📍 Based in Delhi • Chennai, India.
-
 <p align="center">
+<img src="https://img.shields.io/badge/🟢_NOW-Turning%20Data%20into%20AI--Powered%20Insights-06B6D4?style=for-the-badge"/>
+</p>
+
+<table>
+<tr>
+<td width="32%" valign="top" align="center">
+
+<img width="100%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Q2MWE1ODR0M2NkM2xydjQ0eTRwb2R2dGh1ZTRsN2l2dHVvZnI1NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l46Cy1rHbQ92uuLXa/giphy.gif"/>
+
+<sub>📍 Delhi • Chennai, India</sub>
+
+</td>
+<td width="68%" valign="top">
+
+### Hi, I'm Abhishek 👋
+
+I turn data into insights — and insights into AI systems that **actually ship**, not demo-only AI. I work across AI engineering, web development, machine learning, and agentic AI.
+
+🎓 B.S. in Data Science and Applications — **IIT Madras**
+💼 Data Scientist @ **Trackleo Technologies**, turning data into production AI systems
+❤️ I care about AI that solves real problems for real people
+
+<p>
 <img src="https://img.shields.io/badge/🚀_10%2B-AI%20Projects%20Shipped-0f2027?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🏥_Healthcare-AI%20Specialist-203a43?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/📊_Data--Driven-AI%20Engineer-203a43?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/🎓_IIT%20Madras-B.S.%20Data%20Science-2c5364?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/🤖_Agentic%20AI-%26%20LLM%20Engineer-0f2027?style=for-the-badge"/>
 </p>
 
-**Currently building in:**
-🤖 Agentic AI · 🧠 LLMs · 🏥 Medical AI · 👁 Computer Vision · 📊 Machine Learning · ⚙ MLOps · ☁ Cloud AI · 🌐 Full Stack AI
+**Currently building in:** 🤖 Agentic AI · 🧠 LLMs · 🌐 Web Development · 👁 Computer Vision · 📊 Machine Learning · ⚙ MLOps · ☁ Cloud AI · 💻 Full Stack AI
 
-<br clear="right"/>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -59,7 +77,7 @@ I'm Abhishek — an AI Engineer who turns medical scans, infrastructure alerts, 
 > Production-ready AI systems, scalable backend services, intelligent automation, and end-to-end ML pipelines.
 
 **Languages**
-<p><img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,ts,html,css,sql,bash&perline=10"/></p>
+<p><img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,ts,html,css,bash&perline=10"/></p>
 
 **AI / Machine Learning Core**
 Machine Learning · Deep Learning · ANN · CNN · RNN · GRU · Transfer Learning · Feature Engineering · Predictive Analytics · Classification · Regression · Clustering · Time Series Forecasting
@@ -67,8 +85,11 @@ Machine Learning · Deep Learning · ANN · CNN · RNN · GRU · Transfer Learni
 **LLM Engineering**
 OpenAI · Hugging Face · LangChain · LangGraph · CrewAI · MCP · Multi-Agent AI · RAG · Prompt Engineering · Function Calling · AI Workflow Automation
 
+**AI Coding Tools**
+Cursor · Antigravity · Claude · Codex · GitHub Copilot · MCP
+
 **Computer Vision**
-Medical Imaging · Echocardiography · Fundus Image Classification · Object Detection · Image Classification · Image Segmentation · OCR · OpenCV · Vision AI
+Object Detection · Image Classification · Image Segmentation · OCR · OpenCV · Vision AI
 
 **NLP**
 Transformers · Tokenization · Embeddings · Semantic Search · Text Classification · Question Answering · Vector Search
@@ -100,11 +121,11 @@ Data Cleaning · EDA · Feature Engineering · Model Evaluation · Hyperparamete
 MLflow · Kubeflow · Docker · Kubernetes · GitHub Actions · DVC · FastAPI Deployment · Model Monitoring · Model Versioning · Experiment Tracking
 
 **Domain Expertise**
-Medical AI · Healthcare Analytics · Computer Vision · Agentic AI · Scientific AI · Financial AI · Civic Technology · Construction Intelligence · Educational AI
+Computer Vision · Agentic AI · Scientific AI · Financial AI · Civic Technology · Construction Intelligence · Educational AI · Data Analytics
 
 **Dev Tools**
 <p><img src="https://skillicons.dev/icons?i=vscode,git,github,postman,linux,anaconda&perline=8"/></p>
-Jupyter Notebook · Google Colab · 3D Slicer · Claude Desktop · GitHub Copilot
+Jupyter Notebook · Google Colab
 
 ---
 
@@ -173,7 +194,7 @@ AI-powered web products integrating Machine Learning and automation.
 | 🧠 Machine Learning | ⭐⭐⭐⭐⭐ |
 | ❤️ Deep Learning | ⭐⭐⭐⭐⭐ |
 | 👁 Computer Vision | ⭐⭐⭐⭐⭐ |
-| 🏥 Medical AI | ⭐⭐⭐⭐⭐ |
+| 📊 Data Science | ⭐⭐⭐⭐⭐ |
 | 🌐 Full Stack Development | ⭐⭐⭐⭐☆ |
 | ⚙️ MLOps | ⭐⭐⭐⭐☆ |
 | ☁️ Cloud | ⭐⭐⭐⭐☆ |
@@ -422,7 +443,7 @@ To build production-scale AI systems that solve meaningful real-world problems i
 **2026 priorities:**
 - 🚀 Build production-scale AI products
 - 🤖 Publish open-source Agentic AI frameworks
-- 🏥 Advance Healthcare AI solutions
+- 📊 Advance data-driven AI solutions
 - 🧠 Contribute to AI Scientist research
 - 📚 Share knowledge through technical blogs
 - 🌍 Contribute to impactful open-source projects
@@ -431,7 +452,7 @@ To build production-scale AI systems that solve meaningful real-world problems i
 
 ## 📫 Connect With Me
 
-<p align="center">💬 Always up for talking AI, Healthcare tech, or the next thing worth building. Reach out 👇</p>
+<p align="center">💬 Always up for talking AI, web development, or the next thing worth building. Reach out 👇</p>
 
 <p align="center">
 <a href="https://github.com/abhijha8287"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
