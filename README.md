@@ -192,22 +192,22 @@ AI-powered web products integrating Machine Learning and automation.
 
 ## 🚀 Featured AI Projects
 
-<p align="center"><i>Ten AI-first products spanning research automation, healthcare, fintech, and developer tooling.</i></p>
+<p align="center"><i>Eleven AI-first products spanning research automation, healthcare, fintech, generative media, and developer tooling.</i></p>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 AI Scientist
-<sub>Autonomous Scientific Discovery Platform</sub>
+### 🦋 Butterfly Director AI
+<sub>Multiverse AI Film Studio — Multi-Agent Architecture</sub>
 
-AI research assistant that discovers research gaps, generates hypotheses, designs experiments, and accelerates research through autonomous multi-agent workflows.
+Turns a single story premise into a branching multiverse of fully generated short films — detects pivotal story decisions, forks parallel "universes" Git-branch-style, and independently produces script → storyboard → video → voice → music → edit for every branch through a 10-agent LangGraph pipeline.
 
-✨ Multi-Agent AI · Scientific Reasoning · Hypothesis Generation · Automated Experiment Planning · Research Paper Generation · Knowledge Graphs
+✨ Multi-Agent Orchestration · Branching Narrative Graphs · Async Resumable Pipelines · Character Consistency via Vector Search · Git-for-Stories
 
-<img src="https://img.shields.io/badge/Python-0f2027?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/LangGraph-0f2027?style=flat-square"/> <img src="https://img.shields.io/badge/OpenAI-0f2027?style=flat-square&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/CrewAI-0f2027?style=flat-square"/> <img src="https://img.shields.io/badge/FastAPI-0f2027?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Vector_DB-0f2027?style=flat-square"/>
+<img src="https://img.shields.io/badge/Python-0f2027?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-0f2027?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/LangGraph-0f2027?style=flat-square"/> <img src="https://img.shields.io/badge/Celery-0f2027?style=flat-square"/> <img src="https://img.shields.io/badge/Next.js-0f2027?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-0f2027?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Qdrant-0f2027?style=flat-square"/>
 
-<a href="https://github.com/abhijha8287/AI-Scientist"><img src="https://img.shields.io/badge/GitHub-View%20Repository-06B6D4?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/abhijha8287/butterfly-director-ai/"><img src="https://img.shields.io/badge/GitHub-View%20Repository-06B6D4?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </td>
 <td width="50%" valign="top">
@@ -342,6 +342,22 @@ Intelligent tutoring, experiment simulations, automated lab reports, and persona
 <img src="https://img.shields.io/badge/Next.js-0f2027?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-0f2027?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Three.js-0f2027?style=flat-square&logo=threedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Python-0f2027?style=flat-square&logo=python&logoColor=white"/>
 
 <a href="https://github.com/abhijha8287/STEMLab-AI"><img src="https://img.shields.io/badge/GitHub-View%20Repository-06B6D4?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+### 🧠 AI Scientist
+<sub>Autonomous Scientific Discovery Platform</sub>
+
+AI research assistant that discovers research gaps, generates hypotheses, designs experiments, and accelerates research through autonomous multi-agent workflows.
+
+✨ Multi-Agent AI · Scientific Reasoning · Hypothesis Generation · Automated Experiment Planning · Research Paper Generation · Knowledge Graphs
+
+<img src="https://img.shields.io/badge/Python-203a43?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/LangGraph-203a43?style=flat-square"/> <img src="https://img.shields.io/badge/OpenAI-203a43?style=flat-square&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/CrewAI-203a43?style=flat-square"/> <img src="https://img.shields.io/badge/FastAPI-203a43?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Vector_DB-203a43?style=flat-square"/>
+
+<a href="https://github.com/abhijha8287/AI-Scientist"><img src="https://img.shields.io/badge/GitHub-View%20Repository-06B6D4?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </td>
 </tr>
