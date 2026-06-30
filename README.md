@@ -3,140 +3,314 @@
 <!-- ===================================================== -->
 
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f2027,50:203a43,100:2c5364&text=Abhishek%20Jha&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&"/>
-</p>
-
-<h3 align="center">AI Engineer • AI Web Developer • Machine Learning Engineer • Agentic AI Developer</h3>
-
-<p align="center">I turn data into insights building intelligent AI products across Web Development, Machine Learning, Deep Learning, LLMs, Agentic AI, and Computer Vision.</p>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&pause=1000&center=true&vCenter=true&width=900&lines=AI+Engineer;Machine+Learning+Engineer;Generative+AI+Developer;Agentic+AI+Developer;Computer+Vision+Engineer;Medical+AI+Researcher;Full+Stack+AI+Developer;MLOps+Engineer;Open+Source+Contributor"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f2027,40:203a43,100:2c5364&text=Abhishek%20Jha&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20Engineer%20%7C%20ML%20Engineer%20%7C%20Agentic%20AI%20Developer&descAlignY=56&descSize=18&descColor=7dd3fc"/>
 </p>
 
 <p align="center">
-<a href="https://github.com/abhijha8287"><img src="https://img.shields.io/github/followers/abhijha8287?style=for-the-badge&logo=github"/></a>
-<a href="https://github.com/abhijha8287"><img src="https://komarev.com/ghpvc/?username=abhijha8287&style=for-the-badge&color=blue"/></a>
-<img src="https://img.shields.io/badge/Open%20Source-Love-red?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI-Engineer-success?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/IIT%20Madras-BS-blue?style=for-the-badge"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=06B6D4&center=true&vCenter=true&width=900&lines=AI+Engineer;Machine+Learning+Engineer;Generative+AI+Developer;Agentic+AI+Developer;Computer+Vision+Engineer;Medical+AI+Researcher;Full+Stack+AI+Developer;MLOps+Engineer;Open+Source+Contributor"/>
 </p>
 
----
+<p align="center">
+<a href="https://github.com/abhijha8287"><img src="https://img.shields.io/github/followers/abhijha8287?style=for-the-badge&logo=github&logoColor=white&color=0f2027&labelColor=203a43"/></a>&nbsp;
+<a href="https://github.com/abhijha8287"><img src="https://komarev.com/ghpvc/?username=abhijha8287&style=for-the-badge&color=0f2027&label=PROFILE+VIEWS"/></a>&nbsp;
+<img src="https://img.shields.io/badge/Open%20Source-❤️%20Love-06B6D4?style=for-the-badge"/>&nbsp;
+<img src="https://img.shields.io/badge/AI-Engineer-2c5364?style=for-the-badge"/>&nbsp;
+<img src="https://img.shields.io/badge/IIT%20Madras-B.Sc.-203a43?style=for-the-badge"/>
+</p>
+
+<p align="center">
+<sub>I turn data into insights — building intelligent AI products across Web Development, Machine Learning, Deep Learning, LLMs, Agentic AI, and Computer Vision.</sub>
+</p>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=3"/>
 
 <!-- ===================================================== -->
 <!--                  ABOUT ME                              -->
 <!-- ===================================================== -->
 
-## 👋 About Me
+<br/>
+
+<h2 align="center">👋 About Me</h2>
 
 <p align="center">
-<img src="https://img.shields.io/badge/🟢_NOW-Turning%20Data%20into%20AI--Powered%20Insights-06B6D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🟢_STATUS-Turning%20Data%20into%20AI--Powered%20Insights-06B6D4?style=for-the-badge"/>
 </p>
 
-<table>
+<br/>
+
+<table width="95%" align="center">
 <tr>
 <td width="32%" valign="top" align="center">
 
 <img width="100%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Q2MWE1ODR0M2NkM2xydjQ0eTRwb2R2dGh1ZTRsN2l2dHVvZnI1NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l46Cy1rHbQ92uuLXa/giphy.gif"/>
 
-<sub>📍 Delhi • Chennai, India</sub>
+<br/><br/>
+<kbd>📍 Delhi • Chennai, India</kbd>
 
 </td>
 <td width="68%" valign="top">
 
 ### Hi, I'm Abhishek 👋
 
-I turn data into insights and insights into AI systems that **actually ship**, not demo only AI. I work across AI engineering, web development, machine learning, and agentic AI.
+I turn data into insights — and insights into AI systems that **actually ship**, not demo-only AI. I work across AI engineering, web development, machine learning, and agentic AI.
 
-🎓 B.Sc. in Data Science and Applications — **IIT Madras**
-💼 Data Scientist @ **Trackleo Technologies**, turning data into production AI systems
-❤️ I care about AI that solves real problems for real people
+<br/>
+
+| | |
+|:--:|:--|
+| 🎓 | B.Sc. in Data Science and Applications — **IIT Madras** |
+| 💼 | Data Scientist @ **Trackleo Technologies**, turning data into production AI systems |
+| ❤️ | I care about AI that solves real problems for real people |
+
+<br/>
 
 <p>
-<img src="https://img.shields.io/badge/🚀_10%2B-AI%20Projects%20Shipped-0f2027?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🚀_11%2B-AI%20Projects%20Shipped-0f2027?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/📊_Data--Driven-AI%20Engineer-203a43?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/🎓_IIT%20Madras-B.Sc.%20Data%20Science-2c5364?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/🤖_Agentic%20AI-%26%20LLM%20Engineer-0f2027?style=for-the-badge"/>
 </p>
 
-**Currently building in:** 🤖 Agentic AI · 🧠 LLMs · 🌐 Web Development · 👁 Computer Vision · 📊 Machine Learning · ⚙ MLOps · ☁ Cloud AI · 💻 Full Stack AI
+<br/>
+
+**Currently building in:**&nbsp;
+<kbd>🤖 Agentic AI</kbd>&nbsp;
+<kbd>🧠 LLMs</kbd>&nbsp;
+<kbd>🌐 Web Dev</kbd>&nbsp;
+<kbd>👁 Computer Vision</kbd>&nbsp;
+<kbd>📊 Machine Learning</kbd>&nbsp;
+<kbd>⚙ MLOps</kbd>&nbsp;
+<kbd>☁ Cloud AI</kbd>&nbsp;
+<kbd>💻 Full Stack AI</kbd>
 
 </td>
 </tr>
 </table>
 
----
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=3"/>
 
 <!-- ===================================================== -->
 <!--                  TECH STACK                           -->
 <!-- ===================================================== -->
 
-## 🛠️ Tech Stack
+<br/>
 
-> Production-ready AI systems, scalable backend services, intelligent automation, and end-to-end ML pipelines.
+<h2 align="center">🛠️ Tech Stack</h2>
 
-**Languages**
-<p><img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,ts,html,css,bash&perline=10"/></p>
+<p align="center"><i>Production-ready AI systems, scalable backend services, intelligent automation, and end-to-end ML pipelines.</i></p>
 
-**AI / Machine Learning Core**
-Machine Learning · Deep Learning · ANN · CNN · RNN · GRU · Transfer Learning · Feature Engineering · Predictive Analytics · Classification · Regression · Clustering · Time Series Forecasting
+<br/>
 
-**LLM Engineering**
-OpenAI · Hugging Face · LangChain · LangGraph · CrewAI · MCP · Multi-Agent AI · RAG · Prompt Engineering · Function Calling · AI Workflow Automation
+<table width="95%" align="center">
+<tr>
+<td width="50%" valign="top">
 
-**AI Coding Tools**
-Cursor · Antigravity · Claude · Codex · GitHub Copilot · MCP
+**🗣️ Languages**
+<p><img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,ts,html,css,bash&perline=9"/></p>
 
-**Computer Vision**
-Object Detection · Image Classification · Image Segmentation · OCR · OpenCV · Vision AI
+<br/>
 
-**NLP**
-Transformers · Tokenization · Embeddings · Semantic Search · Text Classification · Question Answering · Vector Search
+**🤖 AI / Machine Learning Core**
+<p>
+<img src="https://img.shields.io/badge/Machine%20Learning-0f2027?style=flat-square"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-0f2027?style=flat-square"/>
+<img src="https://img.shields.io/badge/ANN-0f2027?style=flat-square"/>
+<img src="https://img.shields.io/badge/CNN-0f2027?style=flat-square"/>
+<img src="https://img.shields.io/badge/RNN-0f2027?style=flat-square"/>
+<img src="https://img.shields.io/badge/GRU-0f2027?style=flat-square"/>
+<img src="https://img.shields.io/badge/Transfer%20Learning-0f2027?style=flat-square"/>
+<img src="https://img.shields.io/badge/Feature%20Engineering-0f2027?style=flat-square"/>
+<img src="https://img.shields.io/badge/Predictive%20Analytics-0f2027?style=flat-square"/>
+<img src="https://img.shields.io/badge/Classification-0f2027?style=flat-square"/>
+<img src="https://img.shields.io/badge/Regression-0f2027?style=flat-square"/>
+<img src="https://img.shields.io/badge/Clustering-0f2027?style=flat-square"/>
+<img src="https://img.shields.io/badge/Time%20Series%20Forecasting-0f2027?style=flat-square"/>
+</p>
 
-**AI Libraries**
-<p><img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&perline=10"/></p>
-XGBoost · Pandas · NumPy · Matplotlib · Plotly · Seaborn · ChromaDB
+<br/>
 
-**Frontend**
-<p><img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,bootstrap&perline=9"/></p>
-Responsive UI · Single Page Applications · Dashboards · Chrome Extensions · Data Visualization
+**🧠 LLM Engineering**
+<p>
+<img src="https://img.shields.io/badge/OpenAI-203a43?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-203a43?style=flat-square&logo=huggingface&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-203a43?style=flat-square"/>
+<img src="https://img.shields.io/badge/LangGraph-203a43?style=flat-square"/>
+<img src="https://img.shields.io/badge/CrewAI-203a43?style=flat-square"/>
+<img src="https://img.shields.io/badge/MCP-203a43?style=flat-square"/>
+<img src="https://img.shields.io/badge/Multi--Agent%20AI-203a43?style=flat-square"/>
+<img src="https://img.shields.io/badge/RAG-203a43?style=flat-square"/>
+<img src="https://img.shields.io/badge/Prompt%20Engineering-203a43?style=flat-square"/>
+<img src="https://img.shields.io/badge/Function%20Calling-203a43?style=flat-square"/>
+<img src="https://img.shields.io/badge/AI%20Workflow%20Automation-203a43?style=flat-square"/>
+</p>
 
-**Backend**
-<p><img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express&perline=8"/></p>
-REST APIs · Authentication · API Integration · Background Workers · Celery · WebSockets · Microservices
+<br/>
 
-**Databases**
-<p><img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,redis&perline=8"/></p>
-PostgreSQL · SQLite · MongoDB · Redis · ChromaDB · Vector Databases
+**🛠 AI Coding Tools**
+<p>
+<img src="https://img.shields.io/badge/Cursor-2c5364?style=flat-square"/>
+<img src="https://img.shields.io/badge/Antigravity-2c5364?style=flat-square"/>
+<img src="https://img.shields.io/badge/Claude-2c5364?style=flat-square"/>
+<img src="https://img.shields.io/badge/Codex-2c5364?style=flat-square"/>
+<img src="https://img.shields.io/badge/GitHub%20Copilot-2c5364?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/MCP-2c5364?style=flat-square"/>
+</p>
 
-**Cloud & DevOps**
+<br/>
+
+**👁 Computer Vision**
+<p>
+<img src="https://img.shields.io/badge/Object%20Detection-0f2027?style=flat-square"/>
+<img src="https://img.shields.io/badge/Image%20Classification-0f2027?style=flat-square"/>
+<img src="https://img.shields.io/badge/Image%20Segmentation-0f2027?style=flat-square"/>
+<img src="https://img.shields.io/badge/OCR-0f2027?style=flat-square"/>
+<img src="https://img.shields.io/badge/OpenCV-0f2027?style=flat-square&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vision%20AI-0f2027?style=flat-square"/>
+</p>
+
+<br/>
+
+**📝 NLP**
+<p>
+<img src="https://img.shields.io/badge/Transformers-203a43?style=flat-square"/>
+<img src="https://img.shields.io/badge/Tokenization-203a43?style=flat-square"/>
+<img src="https://img.shields.io/badge/Embeddings-203a43?style=flat-square"/>
+<img src="https://img.shields.io/badge/Semantic%20Search-203a43?style=flat-square"/>
+<img src="https://img.shields.io/badge/Text%20Classification-203a43?style=flat-square"/>
+<img src="https://img.shields.io/badge/Question%20Answering-203a43?style=flat-square"/>
+<img src="https://img.shields.io/badge/Vector%20Search-203a43?style=flat-square"/>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+**📚 AI Libraries**
+<p><img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&perline=6"/></p>
+<p>
+<img src="https://img.shields.io/badge/XGBoost-2c5364?style=flat-square"/>
+<img src="https://img.shields.io/badge/Pandas-2c5364?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-2c5364?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-2c5364?style=flat-square"/>
+<img src="https://img.shields.io/badge/Plotly-2c5364?style=flat-square&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/Seaborn-2c5364?style=flat-square"/>
+<img src="https://img.shields.io/badge/ChromaDB-2c5364?style=flat-square"/>
+</p>
+
+<br/>
+
+**🌐 Frontend**
+<p><img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,bootstrap&perline=6"/></p>
+<p>
+<img src="https://img.shields.io/badge/Responsive%20UI-0f2027?style=flat-square"/>
+<img src="https://img.shields.io/badge/Single%20Page%20Apps-0f2027?style=flat-square"/>
+<img src="https://img.shields.io/badge/Dashboards-0f2027?style=flat-square"/>
+<img src="https://img.shields.io/badge/Chrome%20Extensions-0f2027?style=flat-square"/>
+<img src="https://img.shields.io/badge/Data%20Visualization-0f2027?style=flat-square"/>
+</p>
+
+<br/>
+
+**⚙️ Backend**
+<p><img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express&perline=6"/></p>
+<p>
+<img src="https://img.shields.io/badge/REST%20APIs-203a43?style=flat-square"/>
+<img src="https://img.shields.io/badge/Authentication-203a43?style=flat-square"/>
+<img src="https://img.shields.io/badge/API%20Integration-203a43?style=flat-square"/>
+<img src="https://img.shields.io/badge/Celery-203a43?style=flat-square"/>
+<img src="https://img.shields.io/badge/WebSockets-203a43?style=flat-square"/>
+<img src="https://img.shields.io/badge/Microservices-203a43?style=flat-square"/>
+</p>
+
+<br/>
+
+**🗄️ Databases**
+<p><img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,redis&perline=6"/></p>
+<p>
+<img src="https://img.shields.io/badge/ChromaDB-2c5364?style=flat-square"/>
+<img src="https://img.shields.io/badge/Vector%20Databases-2c5364?style=flat-square"/>
+</p>
+
+<br/>
+
+**☁️ Cloud & DevOps**
 <p><img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,git,github,linux,postman&perline=8"/></p>
-Docker · Kubernetes · GitHub Actions · CI/CD · MLflow · Kubeflow · DVC · REST API Deployment
+<p>
+<img src="https://img.shields.io/badge/CI%2FCD-0f2027?style=flat-square"/>
+<img src="https://img.shields.io/badge/MLflow-0f2027?style=flat-square"/>
+<img src="https://img.shields.io/badge/Kubeflow-0f2027?style=flat-square"/>
+<img src="https://img.shields.io/badge/DVC-0f2027?style=flat-square"/>
+<img src="https://img.shields.io/badge/REST%20API%20Deployment-0f2027?style=flat-square"/>
+</p>
 
-**Data Science**
-Data Cleaning · EDA · Feature Engineering · Model Evaluation · Hyperparameter Tuning · Statistical Analysis · Predictive Modeling · Power BI
+<br/>
 
-**MLOps**
-MLflow · Kubeflow · Docker · Kubernetes · GitHub Actions · DVC · FastAPI Deployment · Model Monitoring · Model Versioning · Experiment Tracking
+**📊 Data Science & MLOps**
+<p>
+<img src="https://img.shields.io/badge/Data%20Cleaning-203a43?style=flat-square"/>
+<img src="https://img.shields.io/badge/EDA-203a43?style=flat-square"/>
+<img src="https://img.shields.io/badge/Model%20Evaluation-203a43?style=flat-square"/>
+<img src="https://img.shields.io/badge/Hyperparameter%20Tuning-203a43?style=flat-square"/>
+<img src="https://img.shields.io/badge/Statistical%20Analysis-203a43?style=flat-square"/>
+<img src="https://img.shields.io/badge/Predictive%20Modeling-203a43?style=flat-square"/>
+<img src="https://img.shields.io/badge/Power%20BI-203a43?style=flat-square"/>
+<img src="https://img.shields.io/badge/Model%20Monitoring-203a43?style=flat-square"/>
+<img src="https://img.shields.io/badge/Model%20Versioning-203a43?style=flat-square"/>
+<img src="https://img.shields.io/badge/Experiment%20Tracking-203a43?style=flat-square"/>
+</p>
 
-**Domain Expertise**
-Computer Vision · Agentic AI · Scientific AI · Financial AI · Civic Technology · Construction Intelligence · Educational AI · Data Analytics
+<br/>
 
-**Dev Tools**
-<p><img src="https://skillicons.dev/icons?i=vscode,git,github,postman,linux,anaconda&perline=8"/></p>
-Jupyter Notebook · Google Colab
+**🏭 Domain Expertise**
+<p>
+<img src="https://img.shields.io/badge/Computer%20Vision-2c5364?style=flat-square"/>
+<img src="https://img.shields.io/badge/Agentic%20AI-2c5364?style=flat-square"/>
+<img src="https://img.shields.io/badge/Scientific%20AI-2c5364?style=flat-square"/>
+<img src="https://img.shields.io/badge/Financial%20AI-2c5364?style=flat-square"/>
+<img src="https://img.shields.io/badge/Civic%20Technology-2c5364?style=flat-square"/>
+<img src="https://img.shields.io/badge/Construction%20Intelligence-2c5364?style=flat-square"/>
+<img src="https://img.shields.io/badge/Educational%20AI-2c5364?style=flat-square"/>
+<img src="https://img.shields.io/badge/Data%20Analytics-2c5364?style=flat-square"/>
+</p>
 
----
+<br/>
+
+**🔧 Dev Tools**
+<p><img src="https://skillicons.dev/icons?i=vscode,git,github,postman,linux,anaconda&perline=6"/></p>
+<p>
+<img src="https://img.shields.io/badge/Jupyter%20Notebook-0f2027?style=flat-square&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google%20Colab-0f2027?style=flat-square&logo=googlecolab&logoColor=white"/>
+</p>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=3"/>
 
 <!-- ===================================================== -->
 <!--          EXPERIENCE & CURRENT WORK                    -->
 <!-- ===================================================== -->
 
-## 💼 Professional Experience
+<br/>
+
+<h2 align="center">💼 Professional Experience</h2>
+
+<br/>
+
+<table width="95%" align="center">
+<tr>
+<td>
+
+<img src="https://img.shields.io/badge/CURRENT%20ROLE-Healthcare%20AI-06B6D4?style=for-the-badge"/>
 
 ### 🏢 Data Scientist — Trackleo Technologies Pvt. Ltd.
-📅 **Feb 2026 – Present** &nbsp; <img src="https://img.shields.io/badge/●_Current-06B6D4?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/📅-Feb%202026%20–%20Present-0f2027?style=flat-square"/> &nbsp;<img src="https://img.shields.io/badge/●-Active-06B6D4?style=flat-square"/>
 
 Production-grade Healthcare AI focused on computer vision and medical imaging.
 
@@ -144,24 +318,56 @@ Production-grade Healthcare AI focused on computer vision and medical imaging.
 - 🖼️ Medical Image Processing & Feature Engineering
 - 📚 Clinical Decision Support Systems
 
-<img src="https://img.shields.io/badge/Python-0f2027?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-0f2027?style=flat-square&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-0f2027?style=flat-square&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit--Learn-0f2027?style=flat-square&logo=scikitlearn&logoColor=white"/> <img src="https://img.shields.io/badge/OpenCV-0f2027?style=flat-square&logo=opencv&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-0f2027?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-0f2027?style=flat-square&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-0f2027?style=flat-square"/>
+<p>
+<img src="https://img.shields.io/badge/Python-0f2027?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-0f2027?style=flat-square&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-0f2027?style=flat-square&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-0f2027?style=flat-square&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-0f2027?style=flat-square&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-0f2027?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-0f2027?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-0f2027?style=flat-square"/>
+</p>
 
----
+</td>
+</tr>
+
+<tr><td><br/></td></tr>
+
+<tr>
+<td>
+
+<img src="https://img.shields.io/badge/INTERNSHIP-Data%20Science%20%26%20ML-203a43?style=for-the-badge"/>
 
 ### 🤖 Data Scientist Intern — AtliQ Technologies
-📅 **Dec 2025 – Jan 2026**
+<img src="https://img.shields.io/badge/📅-Dec%202025%20–%20Jan%202026-203a43?style=flat-square"/>
 
 End-to-end Data Science and Machine Learning projects.
 
 - Data Cleaning & Exploratory Data Analysis
 - Predictive Analytics & Data Visualization
 
-<img src="https://img.shields.io/badge/Python-203a43?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-203a43?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-203a43?style=flat-square&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit--Learn-203a43?style=flat-square&logo=scikitlearn&logoColor=white"/> <img src="https://img.shields.io/badge/Matplotlib-203a43?style=flat-square&logo=plotly&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-203a43?style=flat-square"/>
+<p>
+<img src="https://img.shields.io/badge/Python-203a43?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-203a43?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-203a43?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-203a43?style=flat-square&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-203a43?style=flat-square&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-203a43?style=flat-square"/>
+</p>
 
----
+</td>
+</tr>
+
+<tr><td><br/></td></tr>
+
+<tr>
+<td>
+
+<img src="https://img.shields.io/badge/INTERNSHIP-Medical%20AI%20%26%20Imaging-2c5364?style=for-the-badge"/>
 
 ### 🏥 AI Developer Intern — Sudha Gopalakrishnan Brain Centre (IIT Madras)
-📅 **Nov 2025**
+<img src="https://img.shields.io/badge/📅-Nov%202025-2c5364?style=flat-square"/>
 
 Advanced Medical Imaging platforms and AI-powered visualization systems.
 
@@ -170,47 +376,90 @@ Advanced Medical Imaging platforms and AI-powered visualization systems.
 - Docker Pipelines & MCP Server Development
 - Headless Medical Imaging & Image Segmentation
 
-<img src="https://img.shields.io/badge/Python-2c5364?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2c5364?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-2c5364?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/3D_Slicer-2c5364?style=flat-square"/> <img src="https://img.shields.io/badge/MCP-2c5364?style=flat-square"/> <img src="https://img.shields.io/badge/Jupyter-2c5364?style=flat-square&logo=jupyter&logoColor=white"/>
+<p>
+<img src="https://img.shields.io/badge/Python-2c5364?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2c5364?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-2c5364?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/3D%20Slicer-2c5364?style=flat-square"/>
+<img src="https://img.shields.io/badge/MCP-2c5364?style=flat-square"/>
+<img src="https://img.shields.io/badge/Jupyter-2c5364?style=flat-square&logo=jupyter&logoColor=white"/>
+</p>
 
----
+</td>
+</tr>
+
+<tr><td><br/></td></tr>
+
+<tr>
+<td>
+
+<img src="https://img.shields.io/badge/INTERNSHIP-AI%20Product%20Engineering-0f2027?style=for-the-badge"/>
 
 ### 🚀 AI Product Engineering Intern — Web Karo India
-📅 **Jan 2025 – Sep 2025**
+<img src="https://img.shields.io/badge/📅-Jan%202025%20–%20Sep%202025-0f2027?style=flat-square"/>
 
 AI-powered web products integrating Machine Learning and automation.
 
 - AI Product Development & API Integration
 - ML Pipelines & Scalable Backend Development
 
-<img src="https://img.shields.io/badge/Python-0f2027?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-0f2027?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/REST_API-0f2027?style=flat-square"/> <img src="https://img.shields.io/badge/Machine_Learning-0f2027?style=flat-square"/> <img src="https://img.shields.io/badge/Git-0f2027?style=flat-square&logo=git&logoColor=white"/>
+<p>
+<img src="https://img.shields.io/badge/Python-0f2027?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-0f2027?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST%20API-0f2027?style=flat-square"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-0f2027?style=flat-square"/>
+<img src="https://img.shields.io/badge/Git-0f2027?style=flat-square&logo=git&logoColor=white"/>
+</p>
 
----
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=3"/>
 
 <!-- ===================================================== -->
 <!--                 FEATURED PROJECTS                      -->
 <!-- ===================================================== -->
 
-## 🚀 Featured AI Projects
+<br/>
+
+<h2 align="center">🚀 Featured AI Projects</h2>
 
 <p align="center"><i>Eleven AI-first products spanning research automation, healthcare, fintech, generative media, and developer tooling.</i></p>
 
-<table>
+<br/>
+
+<table width="95%" align="center">
 <tr>
 <td width="50%" valign="top">
 
-### 🦋 Butterfly Director AI
-<sub>Multiverse AI Film Studio — Multi-Agent Architecture</sub>
+<img src="https://img.shields.io/badge/🎬%20Generative%20Media-Multi--Agent%20Architecture-0f2027?style=flat-square"/>
 
-Turns a single story premise into a branching multiverse of fully generated short films  detects pivotal story decisions, forks parallel "universes" Git-branch-style, and independently produces script → storyboard → video → voice → music → edit for every branch through a 10-agent LangGraph pipeline.
+### 🦋 Butterfly Director AI
+<sub>Multiverse AI Film Studio</sub>
+
+Turns a single story premise into a branching multiverse of fully generated short films — detects pivotal story decisions, forks parallel "universes" Git-branch-style, and independently produces script → storyboard → video → voice → music → edit for every branch through a 10-agent LangGraph pipeline.
 
 ✨ Multi-Agent Orchestration · Branching Narrative Graphs · Async Resumable Pipelines · Character Consistency via Vector Search · Git-for-Stories
 
-<img src="https://img.shields.io/badge/Python-0f2027?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-0f2027?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/LangGraph-0f2027?style=flat-square"/> <img src="https://img.shields.io/badge/Celery-0f2027?style=flat-square"/> <img src="https://img.shields.io/badge/Next.js-0f2027?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-0f2027?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Qdrant-0f2027?style=flat-square"/>
+<p>
+<img src="https://img.shields.io/badge/Python-0f2027?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-0f2027?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangGraph-0f2027?style=flat-square"/>
+<img src="https://img.shields.io/badge/Celery-0f2027?style=flat-square"/>
+<img src="https://img.shields.io/badge/Next.js-0f2027?style=flat-square&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-0f2027?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Qdrant-0f2027?style=flat-square"/>
+</p>
 
 <a href="https://github.com/abhijha8287/butterfly-director-ai/"><img src="https://img.shields.io/badge/GitHub-View%20Repository-06B6D4?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </td>
 <td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/🏥%20Healthcare%20AI-Explainable%20AI-203a43?style=flat-square"/>
 
 ### 🏥 Facility Trust Desk
 <sub>Healthcare Facility Intelligence Platform</sub>
@@ -219,28 +468,47 @@ Evaluates hospitals across ICU, NICU, Trauma, Oncology, Emergency, and Dialysis 
 
 ✨ Explainable AI · Healthcare Analytics · Hospital Verification · Trust Scoring · RAG Pipeline
 
-<img src="https://img.shields.io/badge/Python-203a43?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/LLMs-203a43?style=flat-square"/> <img src="https://img.shields.io/badge/FastAPI-203a43?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Vector_Search-203a43?style=flat-square"/> <img src="https://img.shields.io/badge/OpenAI-203a43?style=flat-square&logo=openai&logoColor=white"/>
+<p>
+<img src="https://img.shields.io/badge/Python-203a43?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/LLMs-203a43?style=flat-square"/>
+<img src="https://img.shields.io/badge/FastAPI-203a43?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vector%20Search-203a43?style=flat-square"/>
+<img src="https://img.shields.io/badge/OpenAI-203a43?style=flat-square&logo=openai&logoColor=white"/>
+</p>
 
 <a href="https://github.com/abhijha8287/facility-trust-desk"><img src="https://img.shields.io/badge/GitHub-View%20Repository-06B6D4?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </td>
 </tr>
+
+<tr><td colspan="2"><br/></td></tr>
+
 <tr>
 <td valign="top">
+
+<img src="https://img.shields.io/badge/🚨%20DevOps%20AI-Incident%20Intelligence-2c5364?style=flat-square"/>
 
 ### 🚨 Autonomous Incident Commander
 <sub>Infrastructure Incident Intelligence</sub>
 
-Transforms infrastructure alerts into intelligent investigations root cause identification, timeline generation, response coordination, and remediation recommendations.
+Transforms infrastructure alerts into intelligent investigations — root cause identification, timeline generation, response coordination, and remediation recommendations.
 
 ✨ AI Incident Investigation · Root Cause Analysis · Timeline Generation · Splunk Integration · Jira Automation
 
-<img src="https://img.shields.io/badge/Python-2c5364?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Splunk-2c5364?style=flat-square&logo=splunk&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-2c5364?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/LangGraph-2c5364?style=flat-square"/> <img src="https://img.shields.io/badge/Docker-2c5364?style=flat-square&logo=docker&logoColor=white"/>
+<p>
+<img src="https://img.shields.io/badge/Python-2c5364?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Splunk-2c5364?style=flat-square&logo=splunk&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-2c5364?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangGraph-2c5364?style=flat-square"/>
+<img src="https://img.shields.io/badge/Docker-2c5364?style=flat-square&logo=docker&logoColor=white"/>
+</p>
 
 <a href="https://github.com/abhijha8287/Autonomous-Incident-Commander"><img src="https://img.shields.io/badge/GitHub-View%20Repository-06B6D4?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </td>
 <td valign="top">
+
+<img src="https://img.shields.io/badge/🏗%20Enterprise%20AI-Construction%20Intelligence-0f2027?style=flat-square"/>
 
 ### 🏗 AI Construction Commander
 <sub>Enterprise Construction Intelligence</sub>
@@ -249,14 +517,25 @@ Enterprise platform for investigating construction delays, supply-chain bottlene
 
 ✨ Delay Investigation · Procurement Intelligence · Risk Prediction · Knowledge Graph · Forecasting
 
-<img src="https://img.shields.io/badge/Python-0f2027?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Neo4j-0f2027?style=flat-square&logo=neo4j&logoColor=white"/> <img src="https://img.shields.io/badge/LangGraph-0f2027?style=flat-square"/> <img src="https://img.shields.io/badge/OpenAI-0f2027?style=flat-square&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-0f2027?style=flat-square&logo=fastapi&logoColor=white"/>
+<p>
+<img src="https://img.shields.io/badge/Python-0f2027?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Neo4j-0f2027?style=flat-square&logo=neo4j&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangGraph-0f2027?style=flat-square"/>
+<img src="https://img.shields.io/badge/OpenAI-0f2027?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-0f2027?style=flat-square&logo=fastapi&logoColor=white"/>
+</p>
 
 <a href="https://github.com/abhijha8287/AI-Construction-Commander"><img src="https://img.shields.io/badge/GitHub-View%20Repository-06B6D4?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </td>
 </tr>
+
+<tr><td colspan="2"><br/></td></tr>
+
 <tr>
 <td valign="top">
+
+<img src="https://img.shields.io/badge/💼%20Career%20AI-Job%20Discovery%20%26%20ATS-203a43?style=flat-square"/>
 
 ### 💼 Career Agent AI
 <sub>AI Career Assistant</sub>
@@ -265,12 +544,20 @@ Discovers jobs, internships, and freelance opportunities while generating ATS-op
 
 ✨ Job Discovery · ATS Resume Builder · Cover Letter Generation · Resume Ranking · AI Matching
 
-<img src="https://img.shields.io/badge/Python-203a43?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-203a43?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/OpenAI-203a43?style=flat-square&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-203a43?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Elasticsearch-203a43?style=flat-square&logo=elasticsearch&logoColor=white"/>
+<p>
+<img src="https://img.shields.io/badge/Python-203a43?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-203a43?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI-203a43?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-203a43?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Elasticsearch-203a43?style=flat-square&logo=elasticsearch&logoColor=white"/>
+</p>
 
 <a href="https://github.com/abhijha8287/career-agent-ai"><img src="https://img.shields.io/badge/GitHub-View%20Repository-06B6D4?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </td>
 <td valign="top">
+
+<img src="https://img.shields.io/badge/🔮%20Decision%20AI-Future%20Simulation-2c5364?style=flat-square"/>
 
 ### 🔮 Parallel AI
 <sub>Decision Intelligence Platform</sub>
@@ -279,14 +566,24 @@ Predicts multiple future outcomes, estimates regret probability, and evaluates o
 
 ✨ Future Simulation · Decision Intelligence · Regret Prediction · Opportunity Cost · Personalized AI
 
-<img src="https://img.shields.io/badge/Python-2c5364?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/OpenAI-2c5364?style=flat-square&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/LangGraph-2c5364?style=flat-square"/> <img src="https://img.shields.io/badge/Vector_DB-2c5364?style=flat-square"/>
+<p>
+<img src="https://img.shields.io/badge/Python-2c5364?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI-2c5364?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangGraph-2c5364?style=flat-square"/>
+<img src="https://img.shields.io/badge/Vector%20DB-2c5364?style=flat-square"/>
+</p>
 
 <a href="https://github.com/abhijha8287/parallel-ai"><img src="https://img.shields.io/badge/GitHub-View%20Repository-06B6D4?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </td>
 </tr>
+
+<tr><td colspan="2"><br/></td></tr>
+
 <tr>
 <td valign="top">
+
+<img src="https://img.shields.io/badge/⚡%20Browser%20AI-Chrome%20Extension-0f2027?style=flat-square"/>
 
 ### ⚡ Future Self AI
 <sub>Predictive Decision Chrome Extension</sub>
@@ -295,12 +592,20 @@ Intercepts important online actions and predicts outcomes before purchases, inve
 
 ✨ Chrome Extension · Regret Prediction · Future Impact Report · Decision Intelligence
 
-<img src="https://img.shields.io/badge/Next.js-0f2027?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-0f2027?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-0f2027?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/OpenAI-0f2027?style=flat-square&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/ChromaDB-0f2027?style=flat-square"/>
+<p>
+<img src="https://img.shields.io/badge/Next.js-0f2027?style=flat-square&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-0f2027?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-0f2027?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI-0f2027?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/ChromaDB-0f2027?style=flat-square"/>
+</p>
 
 <a href="https://github.com/abhijha8287/future-self-ai"><img src="https://img.shields.io/badge/GitHub-View%20Repository-06B6D4?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </td>
 <td valign="top">
+
+<img src="https://img.shields.io/badge/📈%20FinTech%20AI-Market%20Intelligence-203a43?style=flat-square"/>
 
 ### 📈 TradePulse AI
 <sub>AI Trading Intelligence Dashboard</sub>
@@ -309,14 +614,24 @@ Institutional flow analysis, volatility monitoring, news intelligence, watchlist
 
 ✨ Market Intelligence · Institutional Flows · News Analytics · AI Insights
 
-<img src="https://img.shields.io/badge/Python-203a43?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-203a43?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/LLMs-203a43?style=flat-square"/> <img src="https://img.shields.io/badge/PostgreSQL-203a43?style=flat-square&logo=postgresql&logoColor=white"/>
+<p>
+<img src="https://img.shields.io/badge/Python-203a43?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-203a43?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/LLMs-203a43?style=flat-square"/>
+<img src="https://img.shields.io/badge/PostgreSQL-203a43?style=flat-square&logo=postgresql&logoColor=white"/>
+</p>
 
 <a href="https://github.com/abhijha8287/tradepulse-ai"><img src="https://img.shields.io/badge/GitHub-View%20Repository-06B6D4?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </td>
 </tr>
+
+<tr><td colspan="2"><br/></td></tr>
+
 <tr>
 <td valign="top">
+
+<img src="https://img.shields.io/badge/💸%20Web3%20AI-Blockchain%20Payments-2c5364?style=flat-square"/>
 
 ### 💸 RemitAI
 <sub>Cross-Border Remittance Optimizer</sub>
@@ -325,12 +640,19 @@ Finds the cheapest, fastest, and safest blockchain transfer routes using stablec
 
 ✨ Blockchain Payments · Stablecoin Routing · Cost Optimization · Smart Transfer Engine
 
-<img src="https://img.shields.io/badge/TypeScript-2c5364?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Ethereum-2c5364?style=flat-square&logo=ethereum&logoColor=white"/> <img src="https://img.shields.io/badge/Next.js-2c5364?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Web3-2c5364?style=flat-square"/>
+<p>
+<img src="https://img.shields.io/badge/TypeScript-2c5364?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ethereum-2c5364?style=flat-square&logo=ethereum&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-2c5364?style=flat-square&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Web3-2c5364?style=flat-square"/>
+</p>
 
 <a href="https://github.com/abhijha8287/RemitAI"><img src="https://img.shields.io/badge/GitHub-View%20Repository-06B6D4?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </td>
 <td valign="top">
+
+<img src="https://img.shields.io/badge/🎓%20EdTech%20AI-Virtual%20Laboratory-0f2027?style=flat-square"/>
 
 ### 🎓 STEMLab AI
 <sub>Virtual AI Laboratory for STEM Education</sub>
@@ -339,14 +661,24 @@ Intelligent tutoring, experiment simulations, automated lab reports, and persona
 
 ✨ AI Tutor · Interactive Simulations · Lab Reports · Personalized Learning
 
-<img src="https://img.shields.io/badge/Next.js-0f2027?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-0f2027?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Three.js-0f2027?style=flat-square&logo=threedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Python-0f2027?style=flat-square&logo=python&logoColor=white"/>
+<p>
+<img src="https://img.shields.io/badge/Next.js-0f2027?style=flat-square&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-0f2027?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Three.js-0f2027?style=flat-square&logo=threedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-0f2027?style=flat-square&logo=python&logoColor=white"/>
+</p>
 
 <a href="https://github.com/abhijha8287/STEMLab-AI"><img src="https://img.shields.io/badge/GitHub-View%20Repository-06B6D4?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </td>
 </tr>
+
+<tr><td colspan="2"><br/></td></tr>
+
 <tr>
 <td valign="top">
+
+<img src="https://img.shields.io/badge/🧬%20Scientific%20AI-Autonomous%20Discovery-203a43?style=flat-square"/>
 
 ### 🧠 AI Scientist
 <sub>Autonomous Scientific Discovery Platform</sub>
@@ -355,7 +687,14 @@ AI research assistant that discovers research gaps, generates hypotheses, design
 
 ✨ Multi-Agent AI · Scientific Reasoning · Hypothesis Generation · Automated Experiment Planning · Research Paper Generation · Knowledge Graphs
 
-<img src="https://img.shields.io/badge/Python-203a43?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/LangGraph-203a43?style=flat-square"/> <img src="https://img.shields.io/badge/OpenAI-203a43?style=flat-square&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/CrewAI-203a43?style=flat-square"/> <img src="https://img.shields.io/badge/FastAPI-203a43?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Vector_DB-203a43?style=flat-square"/>
+<p>
+<img src="https://img.shields.io/badge/Python-203a43?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangGraph-203a43?style=flat-square"/>
+<img src="https://img.shields.io/badge/OpenAI-203a43?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/CrewAI-203a43?style=flat-square"/>
+<img src="https://img.shields.io/badge/FastAPI-203a43?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vector%20DB-203a43?style=flat-square"/>
+</p>
 
 <a href="https://github.com/abhijha8287/AI-Scientist"><img src="https://img.shields.io/badge/GitHub-View%20Repository-06B6D4?style=for-the-badge&logo=github&logoColor=white"/></a>
 
@@ -363,30 +702,80 @@ AI research assistant that discovers research gaps, generates hypotheses, design
 </tr>
 </table>
 
----
+<br/>
 
-## 🏆 Other Projects
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=3"/>
 
-| Project | Description |
-|---------|-------------|
-| 🩺 Medical Imaging AI | AI for retinal disease detection, echocardiography, MRI visualization, and clinical decision support. |
-| [🏛️ ShadowGov AI](https://github.com/abhijha8287/shadowgov-ai) | Civic-tech AI platform exploring transparency and accountability tooling for government operations *(in progress)*. |
-| 🚗 Parking Management System | Full-stack parking platform Flask, Vue.js, SQLite, Redis, Celery, role-based access control. |
-| ⚙️ MLOps Pipeline | End-to-end production ML pipeline Docker, MLflow, DVC, CI/CD, GitHub Actions, FastAPI deployment. |
-| 📊 Customer Churn Prediction | Deep learning / ANN-based churn prediction using TensorFlow and Keras. |
-| [🍎 Fruit Classification](https://github.com/abhijha8287/fruit_classifier_cnn) | CNN-based fresh vs. spoiled fruit classification with ResNet50 and transfer learning. |
-| [📷 Camera OpenAI Vision](https://github.com/abhijha8287/camera-openai-vision-streamlit) | Streamlit app for real-time image understanding using OpenAI Vision. |
-| ☁️ Kubernetes Learning | Hands-on Kubernetes deployments, scaling, services, and orchestration experiments. |
-| [🔄 GitHub Actions CI](https://github.com/abhijha8287/learning_CI) | CI pipelines for automated testing, builds, and deployment. |
-| 📚 IIT Madras MLOps | Weekly assignments and projects demonstrating production-grade MLOps concepts. |
+<!-- ===================================================== -->
+<!--                  OTHER PROJECTS                        -->
+<!-- ===================================================== -->
 
----
+<br/>
+
+<h2 align="center">🏆 Other Projects</h2>
+
+<br/>
+
+<table width="95%" align="center">
+<tr>
+<th align="left">Project</th>
+<th align="left">Description</th>
+</tr>
+<tr>
+<td>🩺 <b>Medical Imaging AI</b></td>
+<td>AI for retinal disease detection, echocardiography, MRI visualization, and clinical decision support.</td>
+</tr>
+<tr>
+<td><a href="https://github.com/abhijha8287/shadowgov-ai">🏛️ <b>ShadowGov AI</b></a></td>
+<td>Civic-tech AI platform exploring transparency and accountability tooling for government operations <em>(in progress)</em>.</td>
+</tr>
+<tr>
+<td>🚗 <b>Parking Management System</b></td>
+<td>Full-stack parking platform — Flask, Vue.js, SQLite, Redis, Celery, role-based access control.</td>
+</tr>
+<tr>
+<td>⚙️ <b>MLOps Pipeline</b></td>
+<td>End-to-end production ML pipeline — Docker, MLflow, DVC, CI/CD, GitHub Actions, FastAPI deployment.</td>
+</tr>
+<tr>
+<td>📊 <b>Customer Churn Prediction</b></td>
+<td>Deep learning / ANN-based churn prediction using TensorFlow and Keras.</td>
+</tr>
+<tr>
+<td><a href="https://github.com/abhijha8287/fruit_classifier_cnn">🍎 <b>Fruit Classification</b></a></td>
+<td>CNN-based fresh vs. spoiled fruit classification with ResNet50 and transfer learning.</td>
+</tr>
+<tr>
+<td><a href="https://github.com/abhijha8287/camera-openai-vision-streamlit">📷 <b>Camera OpenAI Vision</b></a></td>
+<td>Streamlit app for real-time image understanding using OpenAI Vision.</td>
+</tr>
+<tr>
+<td>☁️ <b>Kubernetes Learning</b></td>
+<td>Hands-on Kubernetes deployments, scaling, services, and orchestration experiments.</td>
+</tr>
+<tr>
+<td><a href="https://github.com/abhijha8287/learning_CI">🔄 <b>GitHub Actions CI</b></a></td>
+<td>CI pipelines for automated testing, builds, and deployment.</td>
+</tr>
+<tr>
+<td>📚 <b>IIT Madras MLOps</b></td>
+<td>Weekly assignments and projects demonstrating production-grade MLOps concepts.</td>
+</tr>
+</table>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=3"/>
 
 <!-- ===================================================== -->
 <!--              GITHUB STATS SECTION                     -->
 <!-- ===================================================== -->
 
-## 📊 GitHub Analytics
+<br/>
+
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<br/>
 
 <p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=abhijha8287&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
@@ -405,11 +794,13 @@ AI research assistant that discovers research gaps, generates hypotheses, design
 <img src="https://github-profile-trophy.vercel.app/?username=abhijha8287&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
 </p>
 
-### 📌 Pinned Repositories
+<br/>
+
+<h3 align="center">📌 Pinned Repositories</h3>
 
 <p align="center">
+<a href="https://github.com/abhijha8287/butterfly-director-ai"><img src="https://github-readme-stats.vercel.app/api/pin/?username=abhijha8287&repo=butterfly-director-ai&theme=tokyonight"/></a>
 <a href="https://github.com/abhijha8287/AI-Scientist"><img src="https://github-readme-stats.vercel.app/api/pin/?username=abhijha8287&repo=AI-Scientist&theme=tokyonight"/></a>
-<a href="https://github.com/abhijha8287/future-self-ai"><img src="https://github-readme-stats.vercel.app/api/pin/?username=abhijha8287&repo=future-self-ai&theme=tokyonight"/></a>
 </p>
 <p align="center">
 <a href="https://github.com/abhijha8287/career-agent-ai"><img src="https://github-readme-stats.vercel.app/api/pin/?username=abhijha8287&repo=career-agent-ai&theme=tokyonight"/></a>
@@ -420,46 +811,130 @@ AI research assistant that discovers research gaps, generates hypotheses, design
 <a href="https://github.com/abhijha8287/Autonomous-Incident-Commander"><img src="https://github-readme-stats.vercel.app/api/pin/?username=abhijha8287&repo=Autonomous-Incident-Commander&theme=tokyonight"/></a>
 </p>
 
----
+<br/>
 
-## 🏅 Certifications
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=3"/>
 
-**🎓 IIT Madras**
+<!-- ===================================================== -->
+<!--                 CERTIFICATIONS                         -->
+<!-- ===================================================== -->
+
+<br/>
+
+<h2 align="center">🏅 Certifications</h2>
+
+<br/>
+
+<table width="95%" align="center">
+<tr>
+<td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/🎓%20IIT%20Madras-Academic%20Credentials-2c5364?style=for-the-badge"/>
+
+<br/><br/>
+
 - ✅ B.Sc. in Data Science and Applications
 - ✅ Diploma in Programming
 - ✅ Diploma in Data Science
 - ✅ Advanced Certificate in Machine Learning & Data Science
 
-**📜 Professional Certifications**
-Machine Learning · Deep Learning · Natural Language Processing · Generative AI · Agentic AI · Python · SQL
+</td>
+<td width="50%" valign="top">
 
----
+<img src="https://img.shields.io/badge/📜%20Professional-Certifications-203a43?style=for-the-badge"/>
 
-## 🎯 Goals
+<br/><br/>
 
-To build production-scale AI systems that solve meaningful real-world problems in Healthcare, Finance, Education, Scientific Research, and Enterprise Automation while contributing to the advancement of Artificial Intelligence.
+<p>
+<img src="https://img.shields.io/badge/Machine%20Learning-0f2027?style=flat-square"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-0f2027?style=flat-square"/>
+<img src="https://img.shields.io/badge/Natural%20Language%20Processing-0f2027?style=flat-square"/>
+<img src="https://img.shields.io/badge/Generative%20AI-203a43?style=flat-square"/>
+<img src="https://img.shields.io/badge/Agentic%20AI-203a43?style=flat-square"/>
+<img src="https://img.shields.io/badge/Python-2c5364?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-2c5364?style=flat-square"/>
+</p>
 
-**Currently learning:** Advanced Multi-Agent Systems · AI Scientist Workflows · Distributed AI Systems · Production LLM Infrastructure · Enterprise RAG Systems · AI Evaluation Frameworks · Scalable MLOps
+</td>
+</tr>
+</table>
 
-**2026 priorities:**
-- 🚀 Build production-scale AI products
-- 🤖 Publish open-source Agentic AI frameworks
-- 📊 Advance data-driven AI solutions
-- 🧠 Contribute to AI Scientist research
-- 📚 Share knowledge through technical blogs
-- 🌍 Contribute to impactful open-source projects
+<br/>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=3"/>
 
-## 📫 Connect With Me
+<!-- ===================================================== -->
+<!--                     GOALS                             -->
+<!-- ===================================================== -->
+
+<br/>
+
+<h2 align="center">🎯 Goals</h2>
+
+<p align="center">To build production-scale AI systems that solve meaningful real-world problems in Healthcare, Finance, Education, Scientific Research, and Enterprise Automation — while contributing to the advancement of Artificial Intelligence.</p>
+
+<br/>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Currently%20Learning-Advanced%20Multi--Agent%20Systems-0f2027?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Currently%20Learning-AI%20Scientist%20Workflows-203a43?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Currently%20Learning-Distributed%20AI%20Systems-2c5364?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Currently%20Learning-Production%20LLM%20Infra-0f2027?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Currently%20Learning-Enterprise%20RAG-203a43?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Currently%20Learning-AI%20Evaluation%20Frameworks-2c5364?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Currently%20Learning-Scalable%20MLOps-0f2027?style=for-the-badge"/>
+</p>
+
+<br/>
+
+<table width="95%" align="center">
+<tr>
+<td align="center" width="33%">
+🚀<br/><b>Build production-scale AI products</b>
+</td>
+<td align="center" width="33%">
+🤖<br/><b>Publish open-source Agentic AI frameworks</b>
+</td>
+<td align="center" width="33%">
+📊<br/><b>Advance data-driven AI solutions</b>
+</td>
+</tr>
+<tr>
+<td align="center">
+🧠<br/><b>Contribute to AI Scientist research</b>
+</td>
+<td align="center">
+📚<br/><b>Share knowledge through technical blogs</b>
+</td>
+<td align="center">
+🌍<br/><b>Contribute to impactful open-source projects</b>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=3"/>
+
+<!-- ===================================================== -->
+<!--                  CONNECT                              -->
+<!-- ===================================================== -->
+
+<br/>
+
+<h2 align="center">📫 Connect With Me</h2>
 
 <p align="center">💬 Always up for talking AI, web development, or the next thing worth building. Reach out 👇</p>
 
+<br/>
+
 <p align="center">
-<a href="https://github.com/abhijha8287"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/abhishekjha15/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/abhijha8287"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;
+<a href="https://www.linkedin.com/in/abhishekjha15/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
 <a href="mailto:abhijha8287@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
+
+<br/>
 
 <p align="center">
 <img src="https://img.shields.io/badge/⭐_Star-a%20Repo-0f2027?style=for-the-badge"/>
@@ -467,14 +942,16 @@ To build production-scale AI systems that solve meaningful real-world problems i
 <img src="https://img.shields.io/badge/🤝_Let's-Collaborate-2c5364?style=for-the-badge"/>
 </p>
 
+<br/>
+
 <p align="center">
-
-> *"The best way to predict the future is to build it."*
-
+<i>"The best way to predict the future is to build it."</i>
 </p>
 
+<br/>
+
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=140&section=footer"/>
 </p>
 
 <p align="center">
