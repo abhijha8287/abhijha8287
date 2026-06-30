@@ -8,7 +8,7 @@
 
 <h3 align="center">AI Engineer • AI Web Developer • Machine Learning Engineer • Agentic AI Developer</h3>
 
-<p align="center">I turn data into insights — building intelligent AI products across Web Development, Machine Learning, Deep Learning, LLMs, Agentic AI, and Computer Vision.</p>
+<p align="center">I turn data into insights building intelligent AI products across Web Development, Machine Learning, Deep Learning, LLMs, Agentic AI, and Computer Vision.</p>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&pause=1000&center=true&vCenter=true&width=900&lines=AI+Engineer;Machine+Learning+Engineer;Generative+AI+Developer;Agentic+AI+Developer;Computer+Vision+Engineer;Medical+AI+Researcher;Full+Stack+AI+Developer;MLOps+Engineer;Open+Source+Contributor"/>
@@ -47,7 +47,7 @@
 
 ### Hi, I'm Abhishek 👋
 
-I turn data into insights — and insights into AI systems that **actually ship**, not demo-only AI. I work across AI engineering, web development, machine learning, and agentic AI.
+I turn data into insights and insights into AI systems that **actually ship**, not demo only AI. I work across AI engineering, web development, machine learning, and agentic AI.
 
 🎓 B.Sc. in Data Science and Applications — **IIT Madras**
 💼 Data Scientist @ **Trackleo Technologies**, turning data into production AI systems
@@ -201,7 +201,7 @@ AI-powered web products integrating Machine Learning and automation.
 ### 🦋 Butterfly Director AI
 <sub>Multiverse AI Film Studio — Multi-Agent Architecture</sub>
 
-Turns a single story premise into a branching multiverse of fully generated short films — detects pivotal story decisions, forks parallel "universes" Git-branch-style, and independently produces script → storyboard → video → voice → music → edit for every branch through a 10-agent LangGraph pipeline.
+Turns a single story premise into a branching multiverse of fully generated short films  detects pivotal story decisions, forks parallel "universes" Git-branch-style, and independently produces script → storyboard → video → voice → music → edit for every branch through a 10-agent LangGraph pipeline.
 
 ✨ Multi-Agent Orchestration · Branching Narrative Graphs · Async Resumable Pipelines · Character Consistency via Vector Search · Git-for-Stories
 
@@ -231,7 +231,7 @@ Evaluates hospitals across ICU, NICU, Trauma, Oncology, Emergency, and Dialysis 
 ### 🚨 Autonomous Incident Commander
 <sub>Infrastructure Incident Intelligence</sub>
 
-Transforms infrastructure alerts into intelligent investigations — root cause identification, timeline generation, response coordination, and remediation recommendations.
+Transforms infrastructure alerts into intelligent investigations root cause identification, timeline generation, response coordination, and remediation recommendations.
 
 ✨ AI Incident Investigation · Root Cause Analysis · Timeline Generation · Splunk Integration · Jira Automation
 
@@ -371,8 +371,8 @@ AI research assistant that discovers research gaps, generates hypotheses, design
 |---------|-------------|
 | 🩺 Medical Imaging AI | AI for retinal disease detection, echocardiography, MRI visualization, and clinical decision support. |
 | [🏛️ ShadowGov AI](https://github.com/abhijha8287/shadowgov-ai) | Civic-tech AI platform exploring transparency and accountability tooling for government operations *(in progress)*. |
-| 🚗 Parking Management System | Full-stack parking platform — Flask, Vue.js, SQLite, Redis, Celery, role-based access control. |
-| ⚙️ MLOps Pipeline | End-to-end production ML pipeline — Docker, MLflow, DVC, CI/CD, GitHub Actions, FastAPI deployment. |
+| 🚗 Parking Management System | Full-stack parking platform Flask, Vue.js, SQLite, Redis, Celery, role-based access control. |
+| ⚙️ MLOps Pipeline | End-to-end production ML pipeline Docker, MLflow, DVC, CI/CD, GitHub Actions, FastAPI deployment. |
 | 📊 Customer Churn Prediction | Deep learning / ANN-based churn prediction using TensorFlow and Keras. |
 | [🍎 Fruit Classification](https://github.com/abhijha8287/fruit_classifier_cnn) | CNN-based fresh vs. spoiled fruit classification with ResNet50 and transfer learning. |
 | [📷 Camera OpenAI Vision](https://github.com/abhijha8287/camera-openai-vision-streamlit) | Streamlit app for real-time image understanding using OpenAI Vision. |
@@ -437,7 +437,7 @@ Machine Learning · Deep Learning · Natural Language Processing · Generative A
 
 ## 🎯 Goals
 
-To build production-scale AI systems that solve meaningful real-world problems in Healthcare, Finance, Education, Scientific Research, and Enterprise Automation — while contributing to the advancement of Artificial Intelligence.
+To build production-scale AI systems that solve meaningful real-world problems in Healthcare, Finance, Education, Scientific Research, and Enterprise Automation while contributing to the advancement of Artificial Intelligence.
 
 **Currently learning:** Advanced Multi-Agent Systems · AI Scientist Workflows · Distributed AI Systems · Production LLM Infrastructure · Enterprise RAG Systems · AI Evaluation Frameworks · Scalable MLOps
 
