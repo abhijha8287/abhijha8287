@@ -49,14 +49,14 @@
 
 I turn data into insights — and insights into AI systems that **actually ship**, not demo-only AI. I work across AI engineering, web development, machine learning, and agentic AI.
 
-🎓 B.S. in Data Science and Applications — **IIT Madras**
+🎓 B.Sc. in Data Science and Applications — **IIT Madras**
 💼 Data Scientist @ **Trackleo Technologies**, turning data into production AI systems
 ❤️ I care about AI that solves real problems for real people
 
 <p>
 <img src="https://img.shields.io/badge/🚀_10%2B-AI%20Projects%20Shipped-0f2027?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/📊_Data--Driven-AI%20Engineer-203a43?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🎓_IIT%20Madras-B.S.%20Data%20Science-2c5364?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🎓_IIT%20Madras-B.Sc.%20Data%20Science-2c5364?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/🤖_Agentic%20AI-%26%20LLM%20Engineer-0f2027?style=for-the-badge"/>
 </p>
 
@@ -425,7 +425,7 @@ AI research assistant that discovers research gaps, generates hypotheses, design
 ## 🏅 Certifications
 
 **🎓 IIT Madras**
-- ✅ B.S. in Data Science and Applications
+- ✅ B.Sc. in Data Science and Applications
 - ✅ Diploma in Programming
 - ✅ Diploma in Data Science
 - ✅ Advanced Certificate in Machine Learning & Data Science
