@@ -101,40 +101,57 @@ I turn data into insights — and insights into AI systems that **actually ship*
 
 <h2 align="center">🛠️ Tech Stack</h2>
 
-<p align="center"><i>Production-ready AI systems, scalable backend services, intelligent automation, and end-to-end ML pipelines.</i></p>
+<p align="center"><i>Production-ready AI systems · Scalable backend services · Intelligent automation · End-to-end ML pipelines</i></p>
 
 <br/>
 
-<table width="95%" align="center">
-<tr>
-<td width="50%" valign="top">
-
-**🗣️ Languages**
-<p><img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,ts,html,css,bash&perline=9"/></p>
-
-<br/>
-
-**🤖 AI / Machine Learning Core**
-<p>
-<img src="https://img.shields.io/badge/Machine%20Learning-0f2027?style=flat-square"/>
-<img src="https://img.shields.io/badge/Deep%20Learning-0f2027?style=flat-square"/>
-<img src="https://img.shields.io/badge/ANN-0f2027?style=flat-square"/>
-<img src="https://img.shields.io/badge/CNN-0f2027?style=flat-square"/>
-<img src="https://img.shields.io/badge/RNN-0f2027?style=flat-square"/>
-<img src="https://img.shields.io/badge/GRU-0f2027?style=flat-square"/>
-<img src="https://img.shields.io/badge/Transfer%20Learning-0f2027?style=flat-square"/>
-<img src="https://img.shields.io/badge/Feature%20Engineering-0f2027?style=flat-square"/>
-<img src="https://img.shields.io/badge/Predictive%20Analytics-0f2027?style=flat-square"/>
-<img src="https://img.shields.io/badge/Classification-0f2027?style=flat-square"/>
-<img src="https://img.shields.io/badge/Regression-0f2027?style=flat-square"/>
-<img src="https://img.shields.io/badge/Clustering-0f2027?style=flat-square"/>
-<img src="https://img.shields.io/badge/Time%20Series%20Forecasting-0f2027?style=flat-square"/>
+<!-- ── LANGUAGES ── -->
+<h4 align="center">🗣️ Languages</h4>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,ts,html,css,bash"/>
 </p>
 
 <br/>
 
+<!-- ── ROW 1: AI/ML · LLM Engineering · CV & NLP ── -->
+<table width="95%" align="center">
+<tr>
+<td width="34%" valign="top" align="center">
+
+**🤖 AI / ML Core**
+
+<p align="center"><img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&perline=3"/></p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Machine%20Learning-0f2027?style=flat-square"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-0f2027?style=flat-square"/>
+<img src="https://img.shields.io/badge/ANN-0f2027?style=flat-square"/>
+<img src="https://img.shields.io/badge/CNN-0f2027?style=flat-square"/>
+<img src="https://img.shields.io/badge/RNN%20·%20GRU-0f2027?style=flat-square"/>
+<img src="https://img.shields.io/badge/Transfer%20Learning-0f2027?style=flat-square"/>
+<img src="https://img.shields.io/badge/Feature%20Engineering-0f2027?style=flat-square"/>
+<img src="https://img.shields.io/badge/Classification-0f2027?style=flat-square"/>
+<img src="https://img.shields.io/badge/Regression-0f2027?style=flat-square"/>
+<img src="https://img.shields.io/badge/Clustering-0f2027?style=flat-square"/>
+<img src="https://img.shields.io/badge/Time%20Series-0f2027?style=flat-square"/>
+<img src="https://img.shields.io/badge/Predictive%20Analytics-0f2027?style=flat-square"/>
+<img src="https://img.shields.io/badge/XGBoost-0f2027?style=flat-square"/>
+<img src="https://img.shields.io/badge/Pandas-0f2027?style=flat-square"/>
+<img src="https://img.shields.io/badge/NumPy-0f2027?style=flat-square"/>
+<img src="https://img.shields.io/badge/Matplotlib-0f2027?style=flat-square"/>
+<img src="https://img.shields.io/badge/Plotly-0f2027?style=flat-square"/>
+<img src="https://img.shields.io/badge/Seaborn-0f2027?style=flat-square"/>
+<img src="https://img.shields.io/badge/ChromaDB-0f2027?style=flat-square"/>
+</p>
+
+</td>
+<td width="33%" valign="top" align="center">
+
 **🧠 LLM Engineering**
-<p>
+
+<br/>
+
+<p align="center">
 <img src="https://img.shields.io/badge/OpenAI-203a43?style=flat-square&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/Hugging%20Face-203a43?style=flat-square&logo=huggingface&logoColor=white"/>
 <img src="https://img.shields.io/badge/LangChain-203a43?style=flat-square"/>
@@ -148,75 +165,60 @@ I turn data into insights — and insights into AI systems that **actually ship*
 <img src="https://img.shields.io/badge/AI%20Workflow%20Automation-203a43?style=flat-square"/>
 </p>
 
-<br/>
+</td>
+<td width="33%" valign="top" align="center">
 
-**🛠 AI Coding Tools**
-<p>
-<img src="https://img.shields.io/badge/Cursor-2c5364?style=flat-square"/>
-<img src="https://img.shields.io/badge/Antigravity-2c5364?style=flat-square"/>
-<img src="https://img.shields.io/badge/Claude-2c5364?style=flat-square"/>
-<img src="https://img.shields.io/badge/Codex-2c5364?style=flat-square"/>
-<img src="https://img.shields.io/badge/GitHub%20Copilot-2c5364?style=flat-square&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/MCP-2c5364?style=flat-square"/>
-</p>
+**👁 Computer Vision & NLP**
 
 <br/>
 
-**👁 Computer Vision**
-<p>
-<img src="https://img.shields.io/badge/Object%20Detection-0f2027?style=flat-square"/>
-<img src="https://img.shields.io/badge/Image%20Classification-0f2027?style=flat-square"/>
-<img src="https://img.shields.io/badge/Image%20Segmentation-0f2027?style=flat-square"/>
-<img src="https://img.shields.io/badge/OCR-0f2027?style=flat-square"/>
-<img src="https://img.shields.io/badge/OpenCV-0f2027?style=flat-square&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vision%20AI-0f2027?style=flat-square"/>
-</p>
-
-<br/>
-
-**📝 NLP**
-<p>
-<img src="https://img.shields.io/badge/Transformers-203a43?style=flat-square"/>
-<img src="https://img.shields.io/badge/Tokenization-203a43?style=flat-square"/>
-<img src="https://img.shields.io/badge/Embeddings-203a43?style=flat-square"/>
-<img src="https://img.shields.io/badge/Semantic%20Search-203a43?style=flat-square"/>
-<img src="https://img.shields.io/badge/Text%20Classification-203a43?style=flat-square"/>
-<img src="https://img.shields.io/badge/Question%20Answering-203a43?style=flat-square"/>
-<img src="https://img.shields.io/badge/Vector%20Search-203a43?style=flat-square"/>
+<p align="center">
+<img src="https://img.shields.io/badge/OpenCV-2c5364?style=flat-square&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/Object%20Detection-2c5364?style=flat-square"/>
+<img src="https://img.shields.io/badge/Image%20Classification-2c5364?style=flat-square"/>
+<img src="https://img.shields.io/badge/Image%20Segmentation-2c5364?style=flat-square"/>
+<img src="https://img.shields.io/badge/OCR-2c5364?style=flat-square"/>
+<img src="https://img.shields.io/badge/Vision%20AI-2c5364?style=flat-square"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Transformers-2c5364?style=flat-square"/>
+<img src="https://img.shields.io/badge/Tokenization-2c5364?style=flat-square"/>
+<img src="https://img.shields.io/badge/Embeddings-2c5364?style=flat-square"/>
+<img src="https://img.shields.io/badge/Semantic%20Search-2c5364?style=flat-square"/>
+<img src="https://img.shields.io/badge/Text%20Classification-2c5364?style=flat-square"/>
+<img src="https://img.shields.io/badge/Vector%20Search-2c5364?style=flat-square"/>
 </p>
 
 </td>
-<td width="50%" valign="top">
-
-**📚 AI Libraries**
-<p><img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&perline=6"/></p>
-<p>
-<img src="https://img.shields.io/badge/XGBoost-2c5364?style=flat-square"/>
-<img src="https://img.shields.io/badge/Pandas-2c5364?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-2c5364?style=flat-square&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-2c5364?style=flat-square"/>
-<img src="https://img.shields.io/badge/Plotly-2c5364?style=flat-square&logo=plotly&logoColor=white"/>
-<img src="https://img.shields.io/badge/Seaborn-2c5364?style=flat-square"/>
-<img src="https://img.shields.io/badge/ChromaDB-2c5364?style=flat-square"/>
-</p>
+</tr>
+</table>
 
 <br/>
 
+<!-- ── ROW 2: Frontend · Backend · Databases ── -->
+<table width="95%" align="center">
+<tr>
+<td width="34%" valign="top" align="center">
+
 **🌐 Frontend**
-<p><img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,bootstrap&perline=6"/></p>
-<p>
+
+<p align="center"><img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,bootstrap&perline=5"/></p>
+
+<p align="center">
 <img src="https://img.shields.io/badge/Responsive%20UI-0f2027?style=flat-square"/>
-<img src="https://img.shields.io/badge/Single%20Page%20Apps-0f2027?style=flat-square"/>
+<img src="https://img.shields.io/badge/SPA-0f2027?style=flat-square"/>
 <img src="https://img.shields.io/badge/Dashboards-0f2027?style=flat-square"/>
 <img src="https://img.shields.io/badge/Chrome%20Extensions-0f2027?style=flat-square"/>
 <img src="https://img.shields.io/badge/Data%20Visualization-0f2027?style=flat-square"/>
 </p>
 
-<br/>
+</td>
+<td width="33%" valign="top" align="center">
 
 **⚙️ Backend**
-<p><img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express&perline=6"/></p>
-<p>
+
+<p align="center"><img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express&perline=4"/></p>
+
+<p align="center">
 <img src="https://img.shields.io/badge/REST%20APIs-203a43?style=flat-square"/>
 <img src="https://img.shields.io/badge/Authentication-203a43?style=flat-square"/>
 <img src="https://img.shields.io/badge/API%20Integration-203a43?style=flat-square"/>
@@ -225,20 +227,35 @@ I turn data into insights — and insights into AI systems that **actually ship*
 <img src="https://img.shields.io/badge/Microservices-203a43?style=flat-square"/>
 </p>
 
-<br/>
+</td>
+<td width="33%" valign="top" align="center">
 
 **🗄️ Databases**
-<p><img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,redis&perline=6"/></p>
-<p>
+
+<p align="center"><img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,redis&perline=5"/></p>
+
+<p align="center">
 <img src="https://img.shields.io/badge/ChromaDB-2c5364?style=flat-square"/>
+<img src="https://img.shields.io/badge/Qdrant-2c5364?style=flat-square"/>
 <img src="https://img.shields.io/badge/Vector%20Databases-2c5364?style=flat-square"/>
 </p>
 
+</td>
+</tr>
+</table>
+
 <br/>
 
+<!-- ── ROW 3: Cloud & DevOps · Data Science & MLOps · Dev Tools ── -->
+<table width="95%" align="center">
+<tr>
+<td width="34%" valign="top" align="center">
+
 **☁️ Cloud & DevOps**
-<p><img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,git,github,linux,postman&perline=8"/></p>
-<p>
+
+<p align="center"><img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,git,github,linux,postman&perline=4"/></p>
+
+<p align="center">
 <img src="https://img.shields.io/badge/CI%2FCD-0f2027?style=flat-square"/>
 <img src="https://img.shields.io/badge/MLflow-0f2027?style=flat-square"/>
 <img src="https://img.shields.io/badge/Kubeflow-0f2027?style=flat-square"/>
@@ -246,48 +263,60 @@ I turn data into insights — and insights into AI systems that **actually ship*
 <img src="https://img.shields.io/badge/REST%20API%20Deployment-0f2027?style=flat-square"/>
 </p>
 
-<br/>
+</td>
+<td width="33%" valign="top" align="center">
 
 **📊 Data Science & MLOps**
-<p>
-<img src="https://img.shields.io/badge/Data%20Cleaning-203a43?style=flat-square"/>
+
+<br/>
+
+<p align="center">
 <img src="https://img.shields.io/badge/EDA-203a43?style=flat-square"/>
-<img src="https://img.shields.io/badge/Model%20Evaluation-203a43?style=flat-square"/>
-<img src="https://img.shields.io/badge/Hyperparameter%20Tuning-203a43?style=flat-square"/>
+<img src="https://img.shields.io/badge/Data%20Cleaning-203a43?style=flat-square"/>
 <img src="https://img.shields.io/badge/Statistical%20Analysis-203a43?style=flat-square"/>
 <img src="https://img.shields.io/badge/Predictive%20Modeling-203a43?style=flat-square"/>
-<img src="https://img.shields.io/badge/Power%20BI-203a43?style=flat-square"/>
+<img src="https://img.shields.io/badge/Hyperparameter%20Tuning-203a43?style=flat-square"/>
+<img src="https://img.shields.io/badge/Model%20Evaluation-203a43?style=flat-square"/>
 <img src="https://img.shields.io/badge/Model%20Monitoring-203a43?style=flat-square"/>
-<img src="https://img.shields.io/badge/Model%20Versioning-203a43?style=flat-square"/>
 <img src="https://img.shields.io/badge/Experiment%20Tracking-203a43?style=flat-square"/>
+<img src="https://img.shields.io/badge/Power%20BI-203a43?style=flat-square"/>
 </p>
 
-<br/>
+</td>
+<td width="33%" valign="top" align="center">
 
-**🏭 Domain Expertise**
-<p>
-<img src="https://img.shields.io/badge/Computer%20Vision-2c5364?style=flat-square"/>
-<img src="https://img.shields.io/badge/Agentic%20AI-2c5364?style=flat-square"/>
-<img src="https://img.shields.io/badge/Scientific%20AI-2c5364?style=flat-square"/>
-<img src="https://img.shields.io/badge/Financial%20AI-2c5364?style=flat-square"/>
-<img src="https://img.shields.io/badge/Civic%20Technology-2c5364?style=flat-square"/>
-<img src="https://img.shields.io/badge/Construction%20Intelligence-2c5364?style=flat-square"/>
-<img src="https://img.shields.io/badge/Educational%20AI-2c5364?style=flat-square"/>
-<img src="https://img.shields.io/badge/Data%20Analytics-2c5364?style=flat-square"/>
-</p>
+**🔧 Dev Tools & AI Coding**
 
-<br/>
+<p align="center"><img src="https://skillicons.dev/icons?i=vscode,anaconda,postman,linux&perline=4"/></p>
 
-**🔧 Dev Tools**
-<p><img src="https://skillicons.dev/icons?i=vscode,git,github,postman,linux,anaconda&perline=6"/></p>
-<p>
-<img src="https://img.shields.io/badge/Jupyter%20Notebook-0f2027?style=flat-square&logo=jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google%20Colab-0f2027?style=flat-square&logo=googlecolab&logoColor=white"/>
+<p align="center">
+<img src="https://img.shields.io/badge/Jupyter%20Notebook-2c5364?style=flat-square&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google%20Colab-2c5364?style=flat-square&logo=googlecolab&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cursor-2c5364?style=flat-square"/>
+<img src="https://img.shields.io/badge/Claude-2c5364?style=flat-square"/>
+<img src="https://img.shields.io/badge/Codex-2c5364?style=flat-square"/>
+<img src="https://img.shields.io/badge/GitHub%20Copilot-2c5364?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/MCP-2c5364?style=flat-square"/>
 </p>
 
 </td>
 </tr>
 </table>
+
+<br/>
+
+<!-- ── DOMAIN EXPERTISE ── -->
+<h4 align="center">🏭 Domain Expertise</h4>
+<p align="center">
+<img src="https://img.shields.io/badge/Computer%20Vision-0f2027?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Agentic%20AI-203a43?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Scientific%20AI-2c5364?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Financial%20AI-0f2027?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Civic%20Technology-203a43?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Construction%20Intelligence-2c5364?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Educational%20AI-0f2027?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Analytics-203a43?style=for-the-badge"/>
+</p>
 
 <br/>
 
