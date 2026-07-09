@@ -352,7 +352,7 @@ I turn data into insights — and insights into AI systems that **actually ship*
 <tr>
 <td>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0f3460&height=50&text=🏢%20Data%20Scientist%20—%20Trackleo%20Technologies%20Pvt.%20Ltd.&fontSize=17&fontColor=58a6ff&fontAlignY=55&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0f3460&height=50&text=🏢%20Data%20Scientist%20—%20Trackleo%20Technologies%20Pvt.%20Ltd.&fontSize=17&fontColor=ffffff&fontAlignY=55&animation=fadeIn"/>
 
 <br/>
 
@@ -385,7 +385,7 @@ Production-grade Healthcare AI focused on computer vision and medical imaging.
 <tr>
 <td>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:16213e&height=50&text=🤖%20Data%20Scientist%20Intern%20—%20AtliQ%20Technologies&fontSize=17&fontColor=58a6ff&fontAlignY=55&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:16213e&height=50&text=🤖%20Data%20Scientist%20Intern%20—%20AtliQ%20Technologies&fontSize=17&fontColor=ffffff&fontAlignY=55&animation=fadeIn"/>
 
 <br/>
 
@@ -415,7 +415,7 @@ End-to-end Data Science and Machine Learning projects.
 <tr>
 <td>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0f3460&height=50&text=🏥%20AI%20Developer%20Intern%20—%20Sudha%20Gopalakrishnan%20Brain%20Centre%20(IIT%20Madras)&fontSize=15&fontColor=58a6ff&fontAlignY=55&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0f3460&height=50&text=🏥%20AI%20Developer%20Intern%20—%20Sudha%20Gopalakrishnan%20Brain%20Centre%20(IIT%20Madras)&fontSize=15&fontColor=ffffff&fontAlignY=55&animation=fadeIn"/>
 
 <br/>
 
@@ -447,7 +447,7 @@ Advanced Medical Imaging platforms and AI-powered visualization systems.
 <tr>
 <td>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:16213e&height=50&text=🚀%20AI%20Product%20Engineering%20Intern%20—%20Web%20Karo%20India&fontSize=17&fontColor=58a6ff&fontAlignY=55&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:16213e&height=50&text=🚀%20AI%20Product%20Engineering%20Intern%20—%20Web%20Karo%20India&fontSize=17&fontColor=ffffff&fontAlignY=55&animation=fadeIn"/>
 
 <br/>
 
@@ -492,7 +492,7 @@ AI-powered web products integrating Machine Learning and automation.
 <tr>
 <td width="50%" valign="top">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1a1040&height=52&text=🦋%20Butterfly%20Director%20AI&fontSize=20&fontColor=a78bfa&fontAlignY=55&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1a1040&height=52&text=🦋%20Butterfly%20Director%20AI&fontSize=20&fontColor=ffffff&fontAlignY=55&animation=fadeIn"/>
 
 <br/>
 
@@ -517,7 +517,7 @@ Turns a single story premise into a branching multiverse of fully generated shor
 </td>
 <td width="50%" valign="top">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0a2a1e&height=52&text=🏥%20Facility%20Trust%20Desk&fontSize=20&fontColor=34d399&fontAlignY=55&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0a2a1e&height=52&text=🏥%20Facility%20Trust%20Desk&fontSize=20&fontColor=ffffff&fontAlignY=55&animation=fadeIn"/>
 
 <br/>
 
@@ -545,7 +545,7 @@ Evaluates hospitals across ICU, NICU, Trauma, Oncology, Emergency, and Dialysis 
 <tr>
 <td valign="top">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1e0a2a&height=52&text=🚨%20Autonomous%20Incident%20Commander&fontSize=18&fontColor=c084fc&fontAlignY=55&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1e0a2a&height=52&text=🚨%20Autonomous%20Incident%20Commander&fontSize=18&fontColor=ffffff&fontAlignY=55&animation=fadeIn"/>
 
 <br/>
 
@@ -568,7 +568,7 @@ Transforms infrastructure alerts into intelligent investigations — root cause 
 </td>
 <td valign="top">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1e1200&height=52&text=🏗%20AI%20Construction%20Commander&fontSize=18&fontColor=fbbf24&fontAlignY=55&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1e1200&height=52&text=🏗%20AI%20Construction%20Commander&fontSize=18&fontColor=ffffff&fontAlignY=55&animation=fadeIn"/>
 
 <br/>
 
@@ -596,7 +596,7 @@ Enterprise platform for investigating construction delays, supply-chain bottlene
 <tr>
 <td valign="top">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:001e3a&height=52&text=💼%20Career%20Agent%20AI&fontSize=20&fontColor=38bdf8&fontAlignY=55&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:001e3a&height=52&text=💼%20Career%20Agent%20AI&fontSize=20&fontColor=ffffff&fontAlignY=55&animation=fadeIn"/>
 
 <br/>
 
@@ -619,7 +619,7 @@ Discovers jobs, internships, and freelance opportunities while generating ATS-op
 </td>
 <td valign="top">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1a0a2e&height=52&text=🔮%20Parallel%20AI&fontSize=20&fontColor=e879f9&fontAlignY=55&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1a0a2e&height=52&text=🔮%20Parallel%20AI&fontSize=20&fontColor=ffffff&fontAlignY=55&animation=fadeIn"/>
 
 <br/>
 
@@ -646,7 +646,7 @@ Predicts multiple future outcomes, estimates regret probability, and evaluates o
 <tr>
 <td valign="top">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:001a2e&height=52&text=⚡%20Future%20Self%20AI&fontSize=20&fontColor=60a5fa&fontAlignY=55&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:001a2e&height=52&text=⚡%20Future%20Self%20AI&fontSize=20&fontColor=ffffff&fontAlignY=55&animation=fadeIn"/>
 
 <br/>
 
@@ -669,7 +669,7 @@ Intercepts important online actions and predicts outcomes before purchases, inve
 </td>
 <td valign="top">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:001e0d&height=52&text=📈%20TradePulse%20AI&fontSize=20&fontColor=4ade80&fontAlignY=55&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:001e0d&height=52&text=📈%20TradePulse%20AI&fontSize=20&fontColor=ffffff&fontAlignY=55&animation=fadeIn"/>
 
 <br/>
 
@@ -696,7 +696,7 @@ Institutional flow analysis, volatility monitoring, news intelligence, watchlist
 <tr>
 <td valign="top">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1a0d2e&height=52&text=💸%20RemitAI&fontSize=20&fontColor=818cf8&fontAlignY=55&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1a0d2e&height=52&text=💸%20RemitAI&fontSize=20&fontColor=ffffff&fontAlignY=55&animation=fadeIn"/>
 
 <br/>
 
@@ -718,7 +718,7 @@ Finds the cheapest, fastest, and safest blockchain transfer routes using stablec
 </td>
 <td valign="top">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1e1400&height=52&text=🎓%20STEMLab%20AI&fontSize=20&fontColor=fb923c&fontAlignY=55&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1e1400&height=52&text=🎓%20STEMLab%20AI&fontSize=20&fontColor=ffffff&fontAlignY=55&animation=fadeIn"/>
 
 <br/>
 
@@ -745,7 +745,7 @@ Intelligent tutoring, experiment simulations, automated lab reports, and persona
 <tr>
 <td valign="top">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:001e1e&height=52&text=🧠%20AI%20Scientist&fontSize=20&fontColor=2dd4bf&fontAlignY=55&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:001e1e&height=52&text=🧠%20AI%20Scientist&fontSize=20&fontColor=ffffff&fontAlignY=55&animation=fadeIn"/>
 
 <br/>
 
@@ -897,7 +897,7 @@ AI research assistant that discovers research gaps, generates hypotheses, design
 <tr>
 <td width="50%" valign="top">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1e3a5f&height=42&text=🎓%20IIT%20Madras%20Academic%20Credentials&fontSize=15&fontColor=58a6ff&fontAlignY=55&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1e3a5f&height=42&text=🎓%20IIT%20Madras%20Academic%20Credentials&fontSize=15&fontColor=ffffff&fontAlignY=55&animation=fadeIn"/>
 
 <br/><br/>
 
@@ -909,7 +909,7 @@ AI research assistant that discovers research gaps, generates hypotheses, design
 </td>
 <td width="50%" valign="top">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1e3a5f&height=42&text=📜%20Professional%20Certifications&fontSize=15&fontColor=58a6ff&fontAlignY=55&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1e3a5f&height=42&text=📜%20Professional%20Certifications&fontSize=15&fontColor=ffffff&fontAlignY=55&animation=fadeIn"/>
 
 <br/><br/>
 
