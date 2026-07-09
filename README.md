@@ -492,7 +492,7 @@ AI-powered web products integrating Machine Learning and automation.
 <tr>
 <td width="50%" valign="top">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1a1040&height=52&text=🦋%20Butterfly%20Director%20AI&fontSize=20&fontColor=ffffff&fontAlignY=55&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1a1040&height=72&text=🦋%20Butterfly%20Director%20AI&fontSize=26&fontColor=ffffff&fontAlignY=55&animation=fadeIn"/>
 
 <br/>
 
@@ -517,7 +517,7 @@ Turns a single story premise into a branching multiverse of fully generated shor
 </td>
 <td width="50%" valign="top">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0a2a1e&height=52&text=🏥%20Facility%20Trust%20Desk&fontSize=20&fontColor=ffffff&fontAlignY=55&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0a2a1e&height=72&text=🏥%20Facility%20Trust%20Desk&fontSize=26&fontColor=ffffff&fontAlignY=55&animation=fadeIn"/>
 
 <br/>
 
@@ -545,7 +545,7 @@ Evaluates hospitals across ICU, NICU, Trauma, Oncology, Emergency, and Dialysis 
 <tr>
 <td valign="top">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1e0a2a&height=52&text=🚨%20Autonomous%20Incident%20Commander&fontSize=18&fontColor=ffffff&fontAlignY=55&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1e0a2a&height=72&text=🚨%20Autonomous%20Incident%20Commander&fontSize=22&fontColor=ffffff&fontAlignY=55&animation=fadeIn"/>
 
 <br/>
 
@@ -568,7 +568,7 @@ Transforms infrastructure alerts into intelligent investigations — root cause 
 </td>
 <td valign="top">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1e1200&height=52&text=🏗%20AI%20Construction%20Commander&fontSize=18&fontColor=ffffff&fontAlignY=55&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1e1200&height=72&text=🏗%20AI%20Construction%20Commander&fontSize=22&fontColor=ffffff&fontAlignY=55&animation=fadeIn"/>
 
 <br/>
 
@@ -596,7 +596,7 @@ Enterprise platform for investigating construction delays, supply-chain bottlene
 <tr>
 <td valign="top">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:001e3a&height=52&text=💼%20Career%20Agent%20AI&fontSize=20&fontColor=ffffff&fontAlignY=55&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:001e3a&height=72&text=💼%20Career%20Agent%20AI&fontSize=26&fontColor=ffffff&fontAlignY=55&animation=fadeIn"/>
 
 <br/>
 
@@ -619,7 +619,7 @@ Discovers jobs, internships, and freelance opportunities while generating ATS-op
 </td>
 <td valign="top">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1a0a2e&height=52&text=🔮%20Parallel%20AI&fontSize=20&fontColor=ffffff&fontAlignY=55&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1a0a2e&height=72&text=🔮%20Parallel%20AI&fontSize=26&fontColor=ffffff&fontAlignY=55&animation=fadeIn"/>
 
 <br/>
 
@@ -646,7 +646,7 @@ Predicts multiple future outcomes, estimates regret probability, and evaluates o
 <tr>
 <td valign="top">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:001a2e&height=52&text=⚡%20Future%20Self%20AI&fontSize=20&fontColor=ffffff&fontAlignY=55&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:001a2e&height=72&text=⚡%20Future%20Self%20AI&fontSize=26&fontColor=ffffff&fontAlignY=55&animation=fadeIn"/>
 
 <br/>
 
@@ -669,7 +669,7 @@ Intercepts important online actions and predicts outcomes before purchases, inve
 </td>
 <td valign="top">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:001e0d&height=52&text=📈%20TradePulse%20AI&fontSize=20&fontColor=ffffff&fontAlignY=55&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:001e0d&height=72&text=📈%20TradePulse%20AI&fontSize=26&fontColor=ffffff&fontAlignY=55&animation=fadeIn"/>
 
 <br/>
 
@@ -696,7 +696,7 @@ Institutional flow analysis, volatility monitoring, news intelligence, watchlist
 <tr>
 <td valign="top">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1a0d2e&height=52&text=💸%20RemitAI&fontSize=20&fontColor=ffffff&fontAlignY=55&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1a0d2e&height=72&text=💸%20RemitAI&fontSize=26&fontColor=ffffff&fontAlignY=55&animation=fadeIn"/>
 
 <br/>
 
@@ -718,7 +718,7 @@ Finds the cheapest, fastest, and safest blockchain transfer routes using stablec
 </td>
 <td valign="top">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1e1400&height=52&text=🎓%20STEMLab%20AI&fontSize=20&fontColor=ffffff&fontAlignY=55&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1e1400&height=72&text=🎓%20STEMLab%20AI&fontSize=26&fontColor=ffffff&fontAlignY=55&animation=fadeIn"/>
 
 <br/>
 
@@ -745,7 +745,7 @@ Intelligent tutoring, experiment simulations, automated lab reports, and persona
 <tr>
 <td valign="top">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:001e1e&height=52&text=🧠%20AI%20Scientist&fontSize=20&fontColor=ffffff&fontAlignY=55&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:001e1e&height=72&text=🧠%20AI%20Scientist&fontSize=26&fontColor=ffffff&fontAlignY=55&animation=fadeIn"/>
 
 <br/>
 
@@ -864,19 +864,23 @@ AI research assistant that discovers research gaps, generates hypotheses, design
 
 <br/>
 
-<h3 align="center">📌 Pinned Repositories</h3>
+<h3 align="center">📌 Explore My Repositories</h3>
 
 <p align="center">
-<a href="https://github.com/abhijha8287/butterfly-director-ai"><img src="https://github-readme-stats.vercel.app/api/pin/?username=abhijha8287&repo=butterfly-director-ai&theme=tokyonight&bg_color=0d1117&title_color=a78bfa&icon_color=06B6D4&hide_border=true"/></a>
-<a href="https://github.com/abhijha8287/AI-Scientist"><img src="https://github-readme-stats.vercel.app/api/pin/?username=abhijha8287&repo=AI-Scientist&theme=tokyonight&bg_color=0d1117&title_color=2dd4bf&icon_color=06B6D4&hide_border=true"/></a>
+<a href="https://github.com/abhijha8287/butterfly-director-ai"><img src="https://img.shields.io/badge/🦋%20Butterfly%20Director%20AI-a78bfa?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;
+<a href="https://github.com/abhijha8287/AI-Scientist"><img src="https://img.shields.io/badge/🧠%20AI%20Scientist-2dd4bf?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 <p align="center">
-<a href="https://github.com/abhijha8287/career-agent-ai"><img src="https://github-readme-stats.vercel.app/api/pin/?username=abhijha8287&repo=career-agent-ai&theme=tokyonight&bg_color=0d1117&title_color=38bdf8&icon_color=06B6D4&hide_border=true"/></a>
-<a href="https://github.com/abhijha8287/facility-trust-desk"><img src="https://github-readme-stats.vercel.app/api/pin/?username=abhijha8287&repo=facility-trust-desk&theme=tokyonight&bg_color=0d1117&title_color=34d399&icon_color=06B6D4&hide_border=true"/></a>
+<a href="https://github.com/abhijha8287/career-agent-ai"><img src="https://img.shields.io/badge/💼%20Career%20Agent%20AI-38bdf8?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;
+<a href="https://github.com/abhijha8287/facility-trust-desk"><img src="https://img.shields.io/badge/🏥%20Facility%20Trust%20Desk-34d399?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 <p align="center">
-<a href="https://github.com/abhijha8287/parallel-ai"><img src="https://github-readme-stats.vercel.app/api/pin/?username=abhijha8287&repo=parallel-ai&theme=tokyonight&bg_color=0d1117&title_color=e879f9&icon_color=06B6D4&hide_border=true"/></a>
-<a href="https://github.com/abhijha8287/Autonomous-Incident-Commander"><img src="https://github-readme-stats.vercel.app/api/pin/?username=abhijha8287&repo=Autonomous-Incident-Commander&theme=tokyonight&bg_color=0d1117&title_color=c084fc&icon_color=06B6D4&hide_border=true"/></a>
+<a href="https://github.com/abhijha8287/parallel-ai"><img src="https://img.shields.io/badge/🔮%20Parallel%20AI-e879f9?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;
+<a href="https://github.com/abhijha8287/Autonomous-Incident-Commander"><img src="https://img.shields.io/badge/🚨%20Incident%20Commander-c084fc?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+<p align="center">
+<a href="https://github.com/abhijha8287/AI-Construction-Commander"><img src="https://img.shields.io/badge/🏗%20Construction%20Commander-fbbf24?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;
+<a href="https://github.com/abhijha8287/future-self-ai"><img src="https://img.shields.io/badge/⚡%20Future%20Self%20AI-60a5fa?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 <br/>
