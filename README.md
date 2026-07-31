@@ -791,7 +791,7 @@ AI research assistant that discovers research gaps, generates hypotheses, design
 </tr>
 <tr>
 <td>🩺 <b>Medical Imaging AI</b></td>
-<td>AI for retinal disease detection, echocardiography, MRI visualization, and clinical decision support.</td>
+<td>AI for retinal disease detection, echo cardiography, MRI visualization, and clinical decision support.</td>
 </tr>
 <tr>
 <td><a href="https://github.com/abhijha8287/shadowgov-ai">🏛️ <b>ShadowGov AI</b></a></td>
