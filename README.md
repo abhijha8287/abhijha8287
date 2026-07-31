@@ -700,7 +700,7 @@ Institutional flow analysis, volatility monitoring, news intelligence, watchlist
 
 <br/>
 
-<sub><b>Cross-Border Remittance Optimizer</b></sub>
+<sub><b>Cross Border Remittance Optimizer</b></sub>
 
 Finds the cheapest, fastest, and safest blockchain transfer routes using stable coins across Ethereum and Layer-2 networks.
 
