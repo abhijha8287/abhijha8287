@@ -41,7 +41,7 @@
 <br/>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=15&pause=2000&color=06B6D4&center=true&vCenter=true&width=700&lines=🟢+Currently+at+Trackleo+Technologies+as+Data+Scientist;🧠+Building+production-grade+Agentic+AI+Systems;🚀+11%2B+AI+products+shipped+and+counting"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=15&pause=2000&color=06B6D4&center=true&vCenter=true&width=700&lines=🧠+Building+production-grade+Agentic+AI+Systems;🏢+Ex-Data+Scientist+%40+Trackleo+Technologies;🚀+13%2B+AI+products+shipped+and+counting"/>
 </p>
 
 <br/>
@@ -72,7 +72,7 @@ I turn data into insights — and insights into AI systems that **actually ship*
 </tr>
 <tr>
 <td>💼</td>
-<td>Data Scientist @ <b>Trackleo Technologies</b>, turning data into production AI systems</td>
+<td>Former Data Scientist @ <b>Trackleo Technologies</b>, turned data into production AI systems</td>
 </tr>
 <tr>
 <td>❤️</td>
@@ -369,7 +369,7 @@ I turn data into insights — and insights into AI systems that **actually ship*
 
 <br/>
 
-<img src="https://img.shields.io/badge/📅%20Feb%202026%20–%20Present-0f2027?style=flat-square"/>&nbsp;<img src="https://img.shields.io/badge/●%20ACTIVE-06B6D4?style=flat-square"/>
+<img src="https://img.shields.io/badge/📅%20Feb%202026%20–%20Jul%202026-0f2027?style=flat-square"/>&nbsp;<img src="https://img.shields.io/badge/✔%20COMPLETED-4ade80?style=flat-square"/>
 
 <br/><br/>
 
