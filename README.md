@@ -169,6 +169,7 @@ I turn data into insights — and insights into AI systems that **actually ship*
 
 <p align="center">
 <img src="https://img.shields.io/badge/OpenAI-203a43?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google%20Gemini-203a43?style=flat-square&logo=googlegemini&logoColor=white"/>
 <img src="https://img.shields.io/badge/Hugging%20Face-203a43?style=flat-square&logo=huggingface&logoColor=white"/>
 <img src="https://img.shields.io/badge/LangChain-203a43?style=flat-square"/>
 <img src="https://img.shields.io/badge/LangGraph-203a43?style=flat-square"/>
@@ -184,7 +185,7 @@ I turn data into insights — and insights into AI systems that **actually ship*
 </td>
 <td width="33%" valign="top" align="center">
 
-**👁 Computer Vision & NLP**
+**👁 Computer Vision, NLP & Voice AI**
 
 <br/>
 
@@ -202,6 +203,13 @@ I turn data into insights — and insights into AI systems that **actually ship*
 <img src="https://img.shields.io/badge/Semantic%20Search-2c5364?style=flat-square"/>
 <img src="https://img.shields.io/badge/Text%20Classification-2c5364?style=flat-square"/>
 <img src="https://img.shields.io/badge/Vector%20Search-2c5364?style=flat-square"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Whisper%20ASR-2c5364?style=flat-square"/>
+<img src="https://img.shields.io/badge/Speech%20to%20Text-2c5364?style=flat-square"/>
+<img src="https://img.shields.io/badge/Text%20to%20Speech-2c5364?style=flat-square"/>
+<img src="https://img.shields.io/badge/Voice%20Activity%20Detection-2c5364?style=flat-square"/>
+<img src="https://img.shields.io/badge/WER%20%2F%20CER-2c5364?style=flat-square"/>
+<img src="https://img.shields.io/badge/Real--Time%20Audio%20Streaming-2c5364?style=flat-square"/>
 </p>
 
 </td>
@@ -225,6 +233,8 @@ I turn data into insights — and insights into AI systems that **actually ship*
 <img src="https://img.shields.io/badge/Dashboards-0f2027?style=flat-square"/>
 <img src="https://img.shields.io/badge/Chrome%20Extensions-0f2027?style=flat-square"/>
 <img src="https://img.shields.io/badge/Data%20Visualization-0f2027?style=flat-square"/>
+<img src="https://img.shields.io/badge/Zustand-0f2027?style=flat-square"/>
+<img src="https://img.shields.io/badge/AudioWorklet-0f2027?style=flat-square"/>
 </p>
 
 </td>
@@ -241,6 +251,8 @@ I turn data into insights — and insights into AI systems that **actually ship*
 <img src="https://img.shields.io/badge/Celery-203a43?style=flat-square"/>
 <img src="https://img.shields.io/badge/WebSockets-203a43?style=flat-square"/>
 <img src="https://img.shields.io/badge/Microservices-203a43?style=flat-square"/>
+<img src="https://img.shields.io/badge/Streamlit-203a43?style=flat-square&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/FFmpeg-203a43?style=flat-square&logo=ffmpeg&logoColor=white"/>
 </p>
 
 </td>
@@ -332,6 +344,7 @@ I turn data into insights — and insights into AI systems that **actually ship*
 <img src="https://img.shields.io/badge/Construction%20Intelligence-7b2d8b?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Educational%20AI-0f3460?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Data%20Analytics-533483?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Voice%20AI%20%26%20Speech%20Processing-7b2d8b?style=for-the-badge"/>
 </p>
 
 <br/>
@@ -484,7 +497,7 @@ AI-powered web products integrating Machine Learning and automation.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:0f2027,100:1e3a5f&height=65&text=🚀%20Featured%20AI%20Projects&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=50"/>
 
-<p align="center"><br/><i>Eleven AI-first products spanning research automation, healthcare, fintech, generative media, and developer tooling.</i><br/></p>
+<p align="center"><br/><i>Thirteen AI-first products spanning research automation, healthcare, fintech, generative media, voice AI, and developer tooling.</i><br/></p>
 
 <br/>
 
@@ -767,6 +780,61 @@ AI research assistant that discovers research gaps, generates hypotheses, design
 <a href="https://github.com/abhijha8287/AI-Scientist"><img src="https://img.shields.io/badge/GitHub-View%20Repository-2dd4bf?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </td>
+<td valign="top">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0a1e2e&height=72&text=🎙️%20EchoFlow&fontSize=26&fontColor=ffffff&fontAlignY=55&animation=fadeIn"/>
+
+<br/>
+
+<sub><b>Voice-to-Voice AI Assistant — Real-Time WebSocket Pipeline</b></sub>
+
+A low-latency voice-to-voice AI assistant — captures mic audio in the browser and streams it through an STT → LLM → TTS pipeline over a live WebSocket connection, then plays the spoken reply back. Every leg (STT/LLM/TTS) is independently swappable between Gemini and OpenAI behind a shared provider interface, with a conversation state machine and barge-in support to cancel and restart when interrupted mid-reply.
+
+✨ Voice AI · Real-Time WebSockets · Barge-in Interruption · Provider-Swappable STT/LLM/TTS · Conversation State Machine · Voice Activity Detection
+
+<p>
+<img src="https://img.shields.io/badge/Python-0f2027?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-0f2027?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/WebSockets-0f2027?style=flat-square"/>
+<img src="https://img.shields.io/badge/Next.js-0f2027?style=flat-square&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-0f2027?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google%20Gemini-0f2027?style=flat-square&logo=googlegemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI-0f2027?style=flat-square&logo=openai&logoColor=white"/>
+</p>
+
+<a href="https://github.com/abhijha8287/EchoFlow"><img src="https://img.shields.io/badge/GitHub-View%20Repository-22d3ee?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+</td>
+</tr>
+
+<tr><td colspan="2"><br/></td></tr>
+
+<tr>
+<td valign="top">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:2e0a1e&height=72&text=🗣️%20IndicSpeechLab&fontSize=26&fontColor=ffffff&fontAlignY=55&animation=fadeIn"/>
+
+<br/>
+
+<sub><b>Indian-Language ASR Evaluation & Benchmarking Platform</b></sub>
+
+A local ASR evaluation dashboard for Indian-language speech recognition — transcribes audio with Whisper (via faster-whisper), compares it against a reference transcript, and reports Word Error Rate, Character Error Rate, inference latency, and Real-Time Factor. Includes Hindi-safe text normalization (Devanagari preserved, no transliteration) and FFmpeg-based audio preprocessing, with every run tracked in a Streamlit dashboard.
+
+✨ Speech Recognition (ASR) · WER / CER Evaluation · Hindi-Safe Text Normalization · Whisper Inference · Audio Preprocessing
+
+<p>
+<img src="https://img.shields.io/badge/Python-203a43?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/faster--whisper-203a43?style=flat-square"/>
+<img src="https://img.shields.io/badge/Streamlit-203a43?style=flat-square&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/FFmpeg-203a43?style=flat-square&logo=ffmpeg&logoColor=white"/>
+<img src="https://img.shields.io/badge/jiwer-203a43?style=flat-square"/>
+<img src="https://img.shields.io/badge/Pandas-203a43?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/librosa-203a43?style=flat-square"/>
+</p>
+
+<a href="https://github.com/abhijha8287/indic-speech-lab"><img src="https://img.shields.io/badge/GitHub-View%20Repository-f472b6?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+</td>
 </tr>
 </table>
 
@@ -881,6 +949,10 @@ AI research assistant that discovers research gaps, generates hypotheses, design
 <p align="center">
 <a href="https://github.com/abhijha8287/AI-Construction-Commander"><img src="https://img.shields.io/badge/🏗%20Construction%20Commander-fbbf24?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;
 <a href="https://github.com/abhijha8287/future-self-ai"><img src="https://img.shields.io/badge/⚡%20Future%20Self%20AI-60a5fa?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+<p align="center">
+<a href="https://github.com/abhijha8287/EchoFlow"><img src="https://img.shields.io/badge/🎙️%20EchoFlow-22d3ee?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;
+<a href="https://github.com/abhijha8287/indic-speech-lab"><img src="https://img.shields.io/badge/🗣️%20IndicSpeechLab-f472b6?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 <br/>
