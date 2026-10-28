@@ -12,7 +12,7 @@
 
 ### 👋 About
 
-- 🎓 **B.Sc. Data Science & Applications, IIT Madras**: S grade in Machine Learning Practice, 100/100 on the MLOps project
+- 🎓 **BS in Data Science & Applications, IIT Madras**: final year (B.Sc. completed 2026); S grade in Machine Learning Practice, 100/100 on the MLOps project
 - 💼 **Ex-Data Scientist @ Trackleo Technologies**: built a retinal disease classifier and helped launch the company's first AI platform in under 3 months
 - 🧠 **AI LLM Intern @ IIT Madras Brain Centre**: 11 MCP tools that let an LLM drive brain MRI analysis
 - 🚀 **Built Pips AI solo**: MVP in 15 days, 1,000+ users in 2 months
