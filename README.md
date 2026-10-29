@@ -9,9 +9,9 @@ Final year of the four-year BS in Data Science at IIT Madras (B.Sc. completed 20
 
 [Portfolio](https://abhijha8287.github.io/portfolio) · [Resume](https://abhijha8287.github.io/portfolio/resume.pdf) · [LinkedIn](https://www.linkedin.com/in/abhishekjha15/) · [Email](mailto:abhijha8287@gmail.com)
 
-| 1,000+ | 15 days | 4 | S grade |
+| Rank 1 | Top 1% | 15 days | S grade |
 |:--|:--|:--|:--|
-| users on Pips AI | from idea to MVP | roles in industry and research | ML Practice, IIT Madras |
+| Kaggle, IIT Madras course competition | Kaggle, Engage 2 leaderboard | to build Pips AI | ML Practice, IIT Madras |
 
 ### Experience
 
@@ -27,11 +27,16 @@ CNN / ResNet50 freshness classifier at 99.8% validation accuracy.
 `Jan 2025 – Sep 2025` &nbsp; **AI Product Engineering Intern** · Web Karo India<br>
 Built WorkSphere AI, a collaborative productivity platform.
 
+### Competitions
+
+**Rank 1** · Apple Disease Classification (Kaggle, IIT Madras course competition)<br>
+**Top 1%** · Engage 2: Value from Clicks to Conversions (Kaggle)
+
 ### Selected work
 
 | | |
 |:--|:--|
-| [**Pips AI**](https://www.pipsai.online) | Trading platform with an AI coach. Built solo; 1,000+ users.<br>`FastAPI · Next.js · Claude API` |
+| [**Pips AI**](https://www.pipsai.online) | Trading platform with an AI coach. Built solo in 15 days.<br>`FastAPI · Next.js · Claude API` |
 | [**Butterfly Director AI**](https://github.com/abhijha8287/butterfly-director-ai) | 11 LangGraph agents turn one premise into branching short films.<br>`LangGraph · Celery · Docker` |
 | [**LLM Evaluation Platform**](https://github.com/abhijha8287/llm-evaluation-platform) | Benchmarks LLMs across providers with DeepEval metrics and an Elo arena.<br>`LiteLLM · DeepEval · Grafana` |
 | [**Data Firefighter**](https://github.com/abhijha8287/Data-Fighter) | Agent that traces data incidents and opens fix PRs after human approval.<br>`LangGraph · FastAPI` |
