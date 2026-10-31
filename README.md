@@ -5,7 +5,7 @@
 
 I build ML systems and LLM agents and take them from training to production: deep learning models, multi-agent workflows, evaluation and deployment.
 
-Final year of the four-year BS in Data Science at IIT Madras (B.Sc. completed 2026). Previously Data Scientist at Trackleo Technologies.
+Final year of the four-year BS in Data Science at IIT Madras (B.Sc. completed 2026). Previously Founding Engineer at Trackleo Technologies.
 
 [Portfolio](https://abhijha8287.github.io/portfolio) · [Resume](https://abhijha8287.github.io/portfolio/resume.pdf) · [LinkedIn](https://www.linkedin.com/in/abhishekjha15/) · [Email](mailto:abhijha8287@gmail.com)
 
@@ -15,11 +15,11 @@ Final year of the four-year BS in Data Science at IIT Madras (B.Sc. completed 20
 
 ### Experience
 
-`Feb 2026 – Jul 2026` &nbsp; **Data Scientist** · Trackleo Technologies<br>
+`Feb 2026 – Jul 2026` &nbsp; **Founding Engineer (Web Developer & Data Scientist)** · Trackleo Technologies<br>
 Retinal disease classifier (5 classes); helped launch the company's first AI platform in under three months.
 
 `Dec 2025 – Jan 2026` &nbsp; **Virtual Data Scientist Intern** · AtliQ Technologies<br>
-CNN / ResNet50 freshness classifier at 99.8% validation accuracy.
+CNN / ResNet50 freshness classifier at 97.8% validation accuracy.
 
 `Nov 2025` &nbsp; **AI LLM Intern** · Sudha Gopalakrishnan Brain Centre, IIT Madras<br>
 11 MCP tools that let an LLM drive brain MRI analysis.
