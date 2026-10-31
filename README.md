@@ -29,8 +29,8 @@ Built WorkSphere AI, a collaborative productivity platform.
 
 ### Competitions
 
-**Rank 1** · Apple Disease Classification (Kaggle, IIT Madras Data Science Lab)<br>
-**Top 1%** · Engage 2: Value from Clicks to Conversions (Kaggle, IIT Madras MLP project)
+**Rank 1** · <a href="https://www.kaggle.com/competitions/apple-disease-classification-26-t-3/leaderboard" target="_blank">Apple Disease Classification</a> (Kaggle, IIT Madras Data Science Lab)<br>
+**Top 1%** · <a href="https://www.kaggle.com/competitions/engage-2-value-from-clicks-to-conversions/leaderboard" target="_blank">Engage 2: Value from Clicks to Conversions</a> (Kaggle, IIT Madras MLP project)
 
 ### Selected work
 
