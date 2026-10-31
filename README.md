@@ -11,7 +11,7 @@ Final year of the four-year BS in Data Science at IIT Madras (B.Sc. completed 20
 
 | Rank 1 | Top 1% | 15 days | S grade |
 |:--|:--|:--|:--|
-| Kaggle, IIT Madras course competition | Kaggle, Engage 2 leaderboard | to build Pips AI | ML Practice, IIT Madras |
+| Kaggle, IIT Madras Data Science Lab | Kaggle, IIT Madras MLP project | to build Pips AI | ML Practice, IIT Madras |
 
 ### Experience
 
@@ -29,8 +29,8 @@ Built WorkSphere AI, a collaborative productivity platform.
 
 ### Competitions
 
-**Rank 1** · Apple Disease Classification (Kaggle, IIT Madras course competition)<br>
-**Top 1%** · Engage 2: Value from Clicks to Conversions (Kaggle)
+**Rank 1** · Apple Disease Classification (Kaggle, IIT Madras Data Science Lab)<br>
+**Top 1%** · Engage 2: Value from Clicks to Conversions (Kaggle, IIT Madras MLP project)
 
 ### Selected work
 
